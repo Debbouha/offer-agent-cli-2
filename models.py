@@ -37,7 +37,15 @@ class OfferSummary(BaseModel):
     title: str = Field(description="Job title.")
 
 
-class ListOffersOutput(BaseModel):
+class OffersSummaryOutput(BaseModel):
     offers: list[OfferSummary] = Field(
         description="List of available job offers."
+    )
+
+class SearchOffersInput(BaseModel):
+    key_word: str = Field(description="lowercase key word for finding relevent offers")
+
+class ReadOfferInput(BaseModel):
+    id: str = Field(
+        description="Unique identifier of the job offer to retrieve."
     )
