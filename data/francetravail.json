@@ -1,6 +1,508 @@
 {
   "resultats": [
     {
+      "id": "212JSDL",
+      "intitule": "Consultant Energy & Utilities F/H (H/F)",
+      "description": "Les missions chez le client varient selon votre profil et vos appétences ; en quelques points, voici ce que vous seriez amenés à réaliser en tant que Consultant Energy & Utilities chez irex Consulting :\n\n- Identifier les besoins métier et les traduire en conceptions techniques\n- Effectuer le cadrage et la priorisation de projets\n- Évaluer l'impact et le coût de mise en place des projets\n- Coordonner les différentes parties prenantes des projets\n- Optimiser les processus métier et assurer leur cohérence après un changement\n- Suivre la mise en place des projets\n- Assurer la conduite du changement\n- Mener les formations des utilisateurs\n\n5 Postes à pourvoir ",
+      "dateCreation": "2026-08-11T18:30:33.063Z",
+      "dateActualisation": "2026-08-11T18:30:33.370Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS 08",
+        "latitude": 48.877495,
+        "longitude": 2.317589,
+        "codePostal": "75008",
+        "commune": "75108"
+      },
+      "romeCode": "M1806",
+      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+      "appellationlibelle": "Business analyst",
+      "entreprise": {
+        "nom": "IREX CONSULTING",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "24 Mois",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "commentaire": "Ingénieur",
+          "exigence": "E"
+        },
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "commentaire": "Ecole de Commerce",
+          "exigence": "E"
+        }
+      ],
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "S"
+        },
+        {
+          "libelle": "Neerlandais",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "300488",
+          "libelle": "Concevoir et gérer un projet",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 40000.0 Euros à 50000.0 Euros sur 12.0 mois",
+        "commentaire": "A négocier selon expérience",
+        "complement1": "Téléphone mobile",
+        "complement2": "Ordinateur portable",
+        "listeComplements": [
+          {
+            "code": "3",
+            "libelle": "Téléphone mobile"
+          },
+          {
+            "code": "4",
+            "libelle": "Ordinateur portable"
+          },
+          {
+            "code": "8",
+            "libelle": "Restauration"
+          },
+          {
+            "code": "6",
+            "libelle": "Titres restaurant / Prime de panier"
+          },
+          {
+            "code": "14",
+            "libelle": "Indemnité transports"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "40H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "coordonnees1": "https://irex-consulting.com/business-analyst/",
+        "urlPostulation": "https://irex-consulting.com/business-analyst/"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels Zone internationale",
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Avoir l'esprit d'équipe",
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Etre force de proposition",
+          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+        }
+      ],
+      "trancheEffectifEtab": "6 à 9 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212JSDL"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "40H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "212JDFV",
+      "intitule": "Admin systéme, Poste de travail et Cloud (H/F)",
+      "description": "Liste des taches prévus\n- Gestion des identités et sécurité (EntraID) : Accès conditionnels : Gestion des approbations de rôles PIM (restrictions, approbation, ...), État d'identité\n- Gestion des appareils via Intune : \n- SSO / App SaaS : \n- Gestion O365 : Exchange et SharePoint\n- Gestion Defender\n- Des connaissances autour de firewall : ajout des simples règles, mise à jour, etc..\n- Réseau WiFi et filaire : Meraki\n- Administration de toute la suite Microsoft (PowerBi, OneDrive, PowerPlatform, M365, Teams ...)\n- Idéalement avoir des formations et certifications :\no AZ900\no AZ104\no AZ305\no RHCSA \no CCNA -> CCNP",
+      "dateCreation": "2026-08-11T11:45:08.605Z",
+      "dateActualisation": "2026-08-11T16:37:19.198Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris"
+      },
+      "romeCode": "M1876",
+      "romeLibelle": "Technicien / Technicienne Cloud",
+      "appellationlibelle": "Technicien / Technicienne Cloud",
+      "entreprise": {
+        "nom": "NETWORX CONSULTING",
+        "description": "Société de conseil en informatique",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "7 An(s)",
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "S"
+        },
+        {
+          "libelle": "Français",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 35000.0 Euros à 40000.0 Euros sur 12 mois",
+        "complement1": "Primes",
+        "complement2": "Indemnité transports",
+        "listeComplements": [
+          {
+            "code": "1",
+            "libelle": "Primes"
+          },
+          {
+            "code": "14",
+            "libelle": "Indemnité transports"
+          },
+          {
+            "code": "6",
+            "libelle": "Titres restaurant / Prime de panier"
+          },
+          {
+            "code": "3",
+            "libelle": "Téléphone mobile"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "NETWORX CONSULTING - M. jean-pierre Rombeaut",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212JDFV",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212JDFV"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais Zone départementale",
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "codeNAF": "62.02A",
+      "secteurActivite": "62",
+      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Avoir l'esprit d'équipe",
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        }
+      ],
+      "trancheEffectifEtab": "3 à 5 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212JDFV"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "212JCVK",
+      "intitule": "Business Analyst Conformité Réglementaire - Asset Management (H/F)",
+      "description": "Notre client, acteur majeur de la gestion d'actifs, renforce son équipe Conformité des Investissements (Risk, Investment Compliance, Contrôle Interne) dans le cadre d'une mission de 6 mois renouvelable.\n\nVous interviendrez sur un outil de paramétrage des contraintes réglementaires et statutaires applicables aux fonds, couvrant :\n     - le contrôle des contraintes réglementaires liées aux différents pays de domiciliation des fonds (UCITS V, AIFM, MMF, ESMA) ;\n     - le contrôle des contraintes statutaires définies dans les prospectus ;\n     - le respect des contraintes en pré-trade et post-trade.\n\nVos missions\n     - Maîtriser l'outil métier et ses processus opérationnels\n     - Animer des ateliers de cadrage clients (recueil de besoins, y compris en anglais)\n     - Coder et tester des contraintes réglementaires/statutaires dans un moteur de règles métier\n     - Utiliser l'IA pour accélérer le codage des règles\n     - Coordonner la validation client des contraintes codées\n     - Identifier les écarts fonctionnels et piloter leur mise en œuvre avec les équipes IT\n     - Former les clients externes aux évolutions de l'outil et enrichir les guides utilisateurs\n     - Produire et mettre à jour la documentation (guides, logigrammes)\n     - Participer au support renforcé post-mise en production et au support de niveau 2\n     - Contribuer aux démonstrations avant-vente\n\nPROFIL RECHERCHE\n     - 7 ans d'expérience minimum en Business Analysis, idéalement en Asset Management ou Investment Compliance\n     - Expérience obligatoire sur une solution de gestion des contraintes réglementaires et de compliance investissement (type ALTO Investment Compliance, Charles River IMS, Bloomberg AIM, SimCorp Dimension, ou équivalent)\n     - Bonne connaissance de la chaîne de traitement des ordres front-to-back\n     - Maîtrise de SQL, VBA, Excel avancé\n     - Aisance avec les outils IA (prompting, bases de connaissances, agents)\n     - Excellente communication client, anglais professionnel requis pour les ateliers internationaux\n     - Sens du delivery, autonomie sur un périmètre fonctionnel large",
+      "dateCreation": "2026-08-11T11:36:48.822Z",
+      "dateActualisation": "2026-08-11T12:15:06.104Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris"
+      },
+      "romeCode": "M1806",
+      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+      "appellationlibelle": "Business analyst",
+      "entreprise": {
+        "nom": "PRESTANOVA",
+        "url": "www.prestanova.fr",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "CDI de chantier ou d'opération",
+      "experienceExige": "E",
+      "experienceLibelle": "7 An(s)",
+      "competences": [
+        {
+          "code": "493976",
+          "libelle": "Développement de solutions informatiques",
+          "exigence": "S"
+        },
+        {
+          "code": "479269",
+          "libelle": "Gestion des risques informatiques",
+          "exigence": "S"
+        },
+        {
+          "code": "106861",
+          "libelle": "Intégration de systèmes",
+          "exigence": "S"
+        },
+        {
+          "code": "109794",
+          "libelle": "Intelligence artificielle",
+          "exigence": "S"
+        },
+        {
+          "code": "477660",
+          "libelle": "Sécurité des systèmes d'information",
+          "exigence": "S"
+        },
+        {
+          "code": "300488",
+          "libelle": "Concevoir et gérer un projet",
+          "exigence": "S"
+        },
+        {
+          "code": "405431",
+          "libelle": "Accompagner et former un client sur l'applicatif métier ou l'interface utilisateur",
+          "exigence": "S"
+        },
+        {
+          "code": "505243",
+          "libelle": "Analyser les besoins des utilisateurs pour la conception de systèmes",
+          "exigence": "S"
+        },
+        {
+          "code": "486880",
+          "libelle": "Analyser les besoins fonctionnels des utilisateurs",
+          "exigence": "S"
+        },
+        {
+          "code": "485330",
+          "libelle": "Assurer la formation des utilisateurs sur les nouveaux outils ou systèmes",
+          "exigence": "S"
+        },
+        {
+          "code": "507960",
+          "libelle": "Assurer la liaison entre les différents départements techniques",
+          "exigence": "S"
+        },
+        {
+          "code": "503739",
+          "libelle": "Assurer le support technique de niveau avancé",
+          "exigence": "S"
+        },
+        {
+          "code": "300196",
+          "libelle": "Concevoir l'architecture d'un système, d'un réseau",
+          "exigence": "S"
+        },
+        {
+          "code": "300202",
+          "libelle": "Déployer, intégrer un logiciel, un système d'informations, une application",
+          "exigence": "S"
+        },
+        {
+          "code": "503742",
+          "libelle": "Développer des stratégies pour l'intégration des systèmes",
+          "exigence": "S"
+        },
+        {
+          "code": "404223",
+          "libelle": "Elaborer et suivre des tableaux de bord des incidents sécurité",
+          "exigence": "S"
+        },
+        {
+          "code": "400454",
+          "libelle": "Evaluer les risques SIC (système information et communication)",
+          "exigence": "S"
+        },
+        {
+          "code": "486791",
+          "libelle": "Implémenter des solutions de sécurité informatique",
+          "exigence": "S"
+        },
+        {
+          "code": "300458",
+          "libelle": "Structurer, synthétiser des informations",
+          "exigence": "S"
+        },
+        {
+          "code": "300679",
+          "libelle": "Tester un logiciel, un système d'informations, une application",
+          "exigence": "S"
+        },
+        {
+          "code": "120347",
+          "libelle": "Vérifier la conformité de fonctionnement et d'utilisation des systèmes d'information",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 60000.0 Euros à 75000.0 Euros sur 12 mois",
+        "complement1": "Primes",
+        "complement2": "Complémentaire santé",
+        "listeComplements": [
+          {
+            "code": "1",
+            "libelle": "Primes"
+          },
+          {
+            "code": "7",
+            "libelle": "Complémentaire santé"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "38H30/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "PRESTANOVA - M. Valentin FOUSSARD",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212JCVK",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212JCVK"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais Zone départementale",
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "71.12B",
+      "secteurActivite": "71",
+      "secteurActiviteLibelle": "Ingénierie,études techniques",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Etre force de proposition",
+          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+        }
+      ],
+      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212JCVK"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "38H30/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "212HYPZ",
+      "intitule": "Property & Asset Manager @myVesta (H/F)",
+      "description": "À propos de l'offre d'emploi\n\nmyVesta est une start-up d'investissement immobilier clé-en-main, structurée et exigeante, qui accompagne particuliers et professionnels sur leurs opérations d'acquisition.\n\nNous opérons deux verticales intégrées :\nmyVesta Transaction - sourcing, analyse, acquisition clé-en-main.\nmyVesta Travaux - contractant général : exécution, rénovation, pilotage.\n\nVous êtes le point de contact opérationnel unique de chaque actif, de la signature du compromis jusqu'à sa gestion en régime de croisière et jusqu'à sa revente le cas échéant. Vous orchestrez tous les intervenants, vous tenez les délais, vous garantissez que chaque projet avance et que chaque actif performe.\n\nConcrètement, vos missions couvrent :\n1. Pilotage des projets post-acquisition\nPrise en charge de chaque dossier dès la signature du compromis\nConstruction et suivi du rétroplanning jusqu'à la livraison / mise en location\nCoordination des jalons et des intervenants (notaires, courtiers, géomètres, prestataires)\nReporting d'avancement et alerte proactive en cas de dérive\n2. Travaux & aménagement\nPilotage de l'ameublement et de l'équipement des biens meublés\nCoordination avec l'équipe Travaux sur les projets\n3. Gestion locative\nSuivi des mise en location des actifs résidentiels et commerciaux avec nos partenaires gestionnaires locatifs\nMaîtrise et tenue à jour de la gestion locative des actifs commerciaux\nRelation locataires : états des lieux, quittancement, révisions, renouvellements\nSuivi des encaissements, relances, gestion des impayés et précontentieux\n4. Suivi d'actifs de la foncière\nTenue des tableaux de bord et reporting trimestriel\nSuivi documentaire et data room par actif\n5. Support aux opérations marchand de biens\nCoordination des reventes : relation agents immobiliers, vendeurs, acquéreurs\nSuivi des découpes et de la commercialisation des lots\n6. Relation partenaires & prestataires\nGestion des relations avec artisans, gestionnaires locatifs, syndics, assureurs, diagnostiqueurs\nRelation avec les syndics de copropriété : suivi des AG, charges, travaux votés",
+      "dateCreation": "2026-08-11T10:24:46.890Z",
+      "dateActualisation": "2026-08-11T15:23:50.179Z",
+      "lieuTravail": {
+        "libelle": "75 - PARIS",
+        "latitude": 48.832769,
+        "longitude": 2.325738,
+        "codePostal": "75014",
+        "commune": "75114"
+      },
+      "romeCode": "M1858",
+      "romeLibelle": "Chef / Cheffe de projet TMA - Tierce Maintenance Applicative",
+      "appellationlibelle": "Chef / Cheffe de projet TMA - Tierce Maintenance Applicative",
+      "entreprise": {
+        "nom": "myVesta",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "exigence": "E"
+        }
+      ],
+      "competences": [
+        {
+          "code": "300688",
+          "libelle": "Application web",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 40000.0 Euros sur 12 mois",
+        "complement1": "Indemnité transports",
+        "listeComplements": [
+          {
+            "code": "14",
+            "libelle": "Indemnité transports"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "40H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de sens des responsabilités",
+          "description": "Capacité à engager sa responsabilité pour atteindre un objectif clairement exprimé et à signaler les éventuels freins à lever pour atteindre l'objectif."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        }
+      ],
+      "trancheEffectifEtab": "1 ou 2 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212HYPZ"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "40H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "212HHZT",
       "intitule": "DevSecOps Engineer (H/F)",
       "description": "Nous recherchons un(e) Ingénieur DevSecOps qualifié(e) pour rejoindre notre équipe dynamique. Dans ce rôle, vous serez responsable de la construction et de la maintenance des outils et de l'infrastructure permettant une livraison logicielle rapide et automatisée, ainsi que de l'intégration des bonnes pratiques de sécurité dans nos processus DevOps, afin de garantir que nos logiciels soient à la fois sécurisés et livrés efficacement. En tant qu'Ingénieur DevSecOps, vous travaillerez en étroite collaboration avec les équipes de développement et le service informatique pour soutenir et améliorer notre CI/CD, automatiser les mesures de sécurité et réaliser des évaluations de vulnérabilité. Ce rôle offre l'opportunité d'avoir un impact significatif sur la posture de sécurité de notre entreprise et de contribuer au développement de solutions innovantes. \n\nRattaché(e) au Head of Embedded Critical System, l'Ingénieur(e) DevSecOps pour le développement embarqué sera responsable des missions suivantes:\n\n- Créer, soutenir, maintenir et améliorer les pipelines d'intégration continue (CI) automatisés avec GitLab et les composants GitLab Runner, intervenant dans les builds automatisés, l'analyse statique du code, l'analyse de composition logicielle, les tests unitaires, de composants et système, la conteneurisation et les activités de déploiement. \n- Concevoir, soutenir, maintenir et mettre à niveau des logiciels tels que GitLab, CMake, Docker, Conan, divers compilateurs et outils, etc. \n- Assurer la gestion de configuration et le provisionnement des environnements. \n- Gérer les dépendances et versions de paquets (Python, Conan). \n- Optimiser le temps de build (politique de cache). \n- Gestion des certificats (infrastructure PKI). \n- Intégrer les meilleures pratiques de sécurité dans le pipeline DevOps, en garantissant une livraison logicielle sécurisée. \n- Réaliser régulièrement des évaluations de vulnérabilité et proposer des recommandations de remédiation. \n- Collaborer avec les équipes de développement et le service informatique pour concevoir et mettre en œuvre des solutions de sécurité. \n- Automatiser les processus de sécurité, y compris l'analyse des vulnérabilités et la réponse aux incidents. \n- Se tenir informé(e) des dernières tendances, menaces et technologies en matière de sécurité. \n- Répondre aux incidents de sécurité et piloter les investigations post-incident. \n- Diagnostiquer et résoudre les échecs de déploiement ou les problèmes d'infrastructure. \n- Collaborer avec le service informatique pour définir et déployer des solutions de gestion de grands jeux de données (entraînement de l'IA). \n- Maintenir et proposer des solutions pour les journaux des serveurs d'outillage interne. \n- Documenter les processus et les développements. \n\nProfil recherché : \n- Diplôme : Master (Bac +5) en informatique, en sécurité de l'information ou dans un domaine connexe. \n- Secteur d'activité : Ingénieur / Ingénieure en développement logiciel informatique\n- Expérience requise : \nMaîtrise des outils de sécurité et DevOps tels que Docker, Conan, GitLab, et des outils d'analyse de sécurité. \nSolide expérience des pipelines d'intégration continue et de livraison continue (CI/CD). \nExpérience avec des langages d'automatisation et de scripting (par exemple, Python, Bash). \nBonne compréhension des plateformes cloud (par exemple, AWS) et de leurs fonctionnalités de sécurité. \nExcellentes capacités d'analyse et de résolution de problèmes.",
@@ -402,7 +904,7 @@
       "intitule": "Data Engineer AWS (H/F)",
       "description": "Tâches\nMettre en œuvre de nouveaux cas d'usage\nCartographier les données et les flux de données\nDévelopper des pipelines d'analyse et de traitement des données\nIndustrialiser les flux de données ainsi que leur visualisation via des tableaux de bord et des reportings\nRéaliser des tests unitaires et des tests d'intégration\n \nAvantages\nÉvolution de carrière structurée - chez Reply, nous encourageons le développement professionnel et fournissons les outils et l'accompagnement nécessaire pour acquérir des compétences techniques et managériales\nRémunération compétitive\nProgrammes de certification pour soutenir votre évolution de carrière\nEnvironnement de travail diversifié et dynamique - vous serez entouré(e) de collègues partageant votre passion pour la technologie\nOpportunités de participer à des Hackathons, Code Challenges et Lab Camps, ainsi que de partager et diffuser les connaissances au sein de l'équipe Data Reply\n \nProfil Recherché\nAu moins 3 ans d'expérience en tant que Data Engineer\nMaster en Data Analytics, Informatique ou dans un domaine d'études pertinent\nConnaissance des enjeux du data engineering, de la création de pipelines de transformation de données (batch ou streaming), de l'industrialisation d'applications de data science et de la modélisation de bases de données\nSolides compétences en Python et/ou Scala, ainsi qu'une bonne maîtrise du SQL et d'un ou plusieurs langages de l'écosystème NoSQL (Cassandra, MongoDB)\nCertification et/ou expérience sur AWS\nMaîtrise courante de l'anglais et du français, à l'écrit comme à l'oral\n \nA propos de Data Reply\nData Reply est une entreprise du groupe Reply spécialisée dans les services d'analyse et de traitement des données. Nous intervenons dans différents secteurs d'activité et fonctions métier, en travaillant directement avec des professionnels de niveau exécutif afin de leur permettre d'obtenir des résultats concrets grâce à une utilisation efficace des données. Nous constatons que l'un des plus grands problèmes rencontrés aujourd'hui par nos clients est qu'ils sont submergés par la quantité de données auxquelles ils font face, sans savoir comment les exploiter à leur avantage. Le vaste éventail de technologies et de modèles disponibles rend également le choix des solutions adaptées particulièrement complexe. La plupart des entreprises savent que leurs données ont de la valeur et qu'elles devraient les exploiter au maximum pour rester compétitives, mais elles ne savent souvent pas par où commencer ni quelles priorités définir. Chez Data Reply, nous sommes fiers d'aider nos clients à prendre les bonnes décisions pour construire leur stratégie data. Grâce à l'expertise de nos consultants, nous identifions les technologies les plus adaptées aux besoins métiers de nos clients. Nous concevons des solutions sur mesure et proposons également des formations internes afin que nos clients tirent pleinement profit de leurs solutions Big Data. www.data.reply.com",
       "dateCreation": "2026-08-05T17:30:18.032Z",
-      "dateActualisation": "2026-08-05T17:30:18.490Z",
+      "dateActualisation": "2026-08-11T15:07:26.091Z",
       "lieuTravail": {
         "libelle": "75 - PARIS",
         "latitude": 48.872479,
@@ -435,7 +937,7 @@
         }
       ],
       "salaire": {
-        "libelle": "Annuel de 65000.0 Euros à 75000.0 Euros sur 12.0 mois"
+        "libelle": "Annuel de 65000.0 Euros à 75000.0 Euros sur 12 mois"
       },
       "dureeTravailLibelle": "38H30/semaine\nTravail en journée",
       "dureeTravailLibelleConverti": "Temps plein",
@@ -2719,7 +3221,7 @@
       "intitule": "Business Developer IT (H/F)",
       "description": "Notre partenaire, éditeur de logiciels leader sur son marché, recherche sa future pépite commerciale !\n\nAu sein de l'équipe commerciale de 10 personnes, vous serez en charge de la promotion des logiciels. Vous aurez pour principale mission d'acquérir de nouveaux clients afin d'accélérer la croissance de la société.\n\nVos missions :\n\n- Prospection (mailing, phoning)\n- Préparer les plans d'actions commerciales\n- Rédaction & Présentation des offres commerciales \n- Démonstration logiciel (capacité de répondre avec aisance aux questions techniques)\n- Collaborer avec le SAV pour remonter les observations et demandes clients \n- Maintenir le CRM à jour \n- Élaboration des dossiers de commande client\n- Déplacements ponctuels chez les clients à prévoir \n\n Conditions du poste : \n\n- Contrat CDI \n- Horaires : 39h/semaine \n- Salaire : 27K brut annuel + variable (déplafonné)\n- Prime de participation, Prime d'intéressement\n- RTT\n- 2 jours de télétravail par semaine \n- Tickets restaurants, prise en charge transport en commun à 50 %, CSE\n- Véhicule de service puis véhicule de fonction",
       "dateCreation": "2026-07-29T17:00:26.563Z",
-      "dateActualisation": "2026-07-29T17:00:27.565Z",
+      "dateActualisation": "2026-08-11T21:49:42.989Z",
       "lieuTravail": {
         "libelle": "75 - Paris 11e Arrondissement",
         "latitude": 48.858831,
@@ -4851,7 +5353,7 @@
       "intitule": "Architecte cybersécurité (H/F)",
       "description": "Nous recherchons un(e) Architecte Cybersécurité pour accompagner RSSI, CISO et équipes IT sur des sujets d'architecture de sécurité, de cyber-résilience, de conformité réglementaire (DORA) et d'analyse de risques (EBIOS-RM), au sein d'environnements critiques, hybrides et multi-cloud.\n\nMissions clés :\n\n-Intervenir comme Lead Architecte Sécurité sur des projets stratégiques et fortement réglementés\n-Concevoir et renforcer la résilience IT (sauvegardes, Air Gap / Bunker Backup, chiffrement, HSM)\n-Définir les architectures de sécurité des infrastructures critiques (stockage, sauvegarde, PAM, IAM)\n-Piloter des analyses de risques, études d'impact et démarches de conformité DORA / ANSSI / NIST\n-Sécuriser les environnements d'administration (AD Tiering, bastion, 2FA, durcissement)\n-Réaliser des revues de sécurité sur plateformes containers / Kubernetes (OCP) et infrastructures cloud\n-Collaborer avec les équipes projets, infra et sécurité dans un rôle de référent expert\n\nExpertises attendues :\n\n-Architecture sécurité d'environnements hybrides et multi-cloud\n-Solide maîtrise des domaines sauvegarde, stockage, segmentation, IAM/PAM (CyberArk)\n-Très bonne compréhension AD, Linux, containers, Kubernetes / OpenShift\n-Gouvernance, Risques & Conformité : ISO 27001, NIST, CIS, ANSSI, EBIOS-RM, DORA\n\nTechnologies clés : Veeam, Data Domain, HSM/KMS, Sysdig, SAN Storage",
       "dateCreation": "2026-07-24T08:46:16.482Z",
-      "dateActualisation": "2026-08-09T22:47:25.905Z",
+      "dateActualisation": "2026-08-11T22:47:50.925Z",
       "lieuTravail": {
         "libelle": "75 - Paris"
       },
@@ -4965,7 +5467,7 @@
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211QCKP"
       },
-      "offresManqueCandidats": true,
+      "offresManqueCandidats": false,
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nTravail en journée",
@@ -5685,7 +6187,7 @@
       "intitule": "Consultant opérationnel avant-vente Télécom (H/F)",
       "description": "Rejoignez CMI Sigma, la branche conseil opérationnel du cabinet CMI pour une mission d'ingénieur avant-vente pour l'un de nos clients.\n\nMission principale : Soutenir notre client dans la gestion transverse des projets liés aux réseaux numériques des collectivités locales (fibre optique, réseaux multi-services.), avec une forte implication en gestion de projet et en coordination d'équipe.\n \nActivités clés :\n- Veille & Détection de Marchés : suivi des besoins des collectivités locales en matière de réseaux ; identification et qualification de nouveaux marchés publics.\n- Réponse aux Appels d'Offres : analyse des AO, élaboration de stratégies de réponse, contribution aux réunions internes et partenaires, construction des dossiers, préparation aux auditions.\n- Réalisation d'études & Synthèses : production de dossiers (concurrence, schémas directeurs numériques, etc.).\n- Communication & Analyse Stratégique : rédaction de supports clairs et structurés, capacité d'analyse prospective sur l'écosystème numérique public.\n- Animation & Opérationnel : animation de réunions internes, rédaction de documents associés.\n- Automatisation des activités Avant-Vente : conception et mise en œuvre d'outils et de processus automatisés pour les activités avant-vente (veille, qualification des opportunités, production de livrables), afin de gagner en efficacité et en fiabilité.\n\nNous recherchons un consultant télécom pour CMI Sigma : devenez acteur de l'opérationnalisation des transformations des opérateurs télécom :\n- Une formation Bac +5 : ingénieur Télécom ou Master en aménagement numérique du territoire est essentielle ;\n- Une formation complétée d'un cursus en management est un plus ;\n- De débutant à 2 ans d'expérience en conseil ou en gestion de projet (les stages pertinents comptent également !) d'aménagement numérique et de réponses à appel d'offres sur les réseaux de fibre optique ;\n- Les qualités suivantes sont recherchées : force de travail, sens du service, esprit d'analyse, goût du défi et de la relation client ;\n- Une capacité à fédérer et à porter des initiatives est clé pour vos futures missions ;\n- Et avoir une connaissance des enjeux opérationnels des opérateurs télécoms et une véritable appétence pour le secteur, vous permettra une montée en compétence rapide sur nos missions.\n\nQui sommes-nous chez CMI Sigma ?\n\nChez CMI Sigma, nous croyons à la force du collectif, à la proximité avec nos clients et à l'impact concret de chaque mission. Nous nous engageons à coconstruire des solutions sur mesure, à la croisée de l'innovation et de la performance opérationnelle. \nNotre mission : accompagner les équipes métiers de nos clients dans le pilotage et la réalisation de leurs projets clés, avec exigence, pragmatisme et bienveillance.\nCe que CMI Sigma vous offre\n- Des missions à impact, chez des acteurs majeurs de différents secteurs d'activités (télécoms, énergie, pharma, agroalimentaire, grande distribution, assurance, etc.)\n- Un environnement stimulant : autonomie, proximité managériale, esprit d'équipe et partage des succès\n- Un accompagnement sur-mesure pour accélérer votre développement professionnel\n- Un cadre bienveillant et exigeant, où l'innovation et la prise d'initiative sont encouragées\n- De nombreux avantages : télétravail flexible, plan d'épargne entreprise, reconnaissance de l'engagement, moments conviviaux et dispositifs pour l'équilibre vie pro/vie perso\n- Participer activement au développement de l'offre Conseil Opérationnel de CMI Sigma\n- Partager votre expertise et contribuer à la dynamique collective : formation, retours d'expérience, innovation interne\n\nChez CMI Sigma, vous bénéficiez du meilleur de l'expertise conseil et d'un collectif engagé, pour donner du sens à votre parcours.\nDans le cadre de notre politique de diversité et d'inclusion, nos recrutements sont fondés sur les compétences, sans distinction de p",
       "dateCreation": "2026-07-23T11:58:24.001Z",
-      "dateActualisation": "2026-08-08T22:46:52.090Z",
+      "dateActualisation": "2026-08-11T14:12:27.580Z",
       "lieuTravail": {
         "libelle": "75 - PARIS",
         "latitude": 48.872479,
@@ -5698,7 +6200,6 @@
       "appellationlibelle": "Consultant / Consultante télécoms",
       "entreprise": {
         "nom": "CMI SIGMA",
-        "description": "Chez CMI Sigma, nous croyons à la force du collectif, à la proximité avec nos clients et à l?impact concret de chaque mission. Nous nous engageons à coconstruire des solutions sur mesure, à la croisée de l?innovation et de la performance opérationnelle. \nNotre mission?: accompagner les équipes métiers de nos clients dans le pilotage et la réalisation de leurs projets clés, avec exigence, pragmatisme et bienveillance.",
         "entrepriseAdaptee": false
       },
       "typeContrat": "CDI",
@@ -5734,7 +6235,7 @@
         }
       ],
       "salaire": {
-        "libelle": "Mensuel de 2916.0 Euros à 3500.0 Euros sur 12.0 mois",
+        "libelle": "Mensuel de 2916.0 Euros à 3500.0 Euros sur 12 mois",
         "complement1": "Primes",
         "complement2": "Intéressement / participation",
         "listeComplements": [
@@ -5763,11 +6264,7 @@
       "dureeTravailLibelle": "35H/semaine\nTravail en journée...",
       "dureeTravailLibelleConverti": "Temps plein",
       "alternance": false,
-      "contact": {
-        "nom": "CMI SIGMA - M. Issam BALAAZI",
-        "coordonnees1": "https://careers.flatchr.io/fr/company/cmi/vacancy/d86rjpg8kozde17e-consultant-operationnel-avant-vente-telecom?partner=6",
-        "urlPostulation": "https://careers.flatchr.io/fr/company/cmi/vacancy/d86rjpg8kozde17e-consultant-operationnel-avant-vente-telecom?partner=6"
-      },
+      "contact": {},
       "agence": {},
       "nombrePostes": 1,
       "deplacementCode": "2",
@@ -6397,7 +6894,7 @@
       "intitule": "Machine Learning & Computer Vision (H/F)",
       "description": "En tant que membre du pôle IA et multimédia, vous bénéficierez d'une formation continue et participerez à la conception et au développement de notre plateforme OSINT d'analyse de la désinformation. Vous aurez l'opportunité de concevoir et de développer des solutions innovantes dans le domaine de la vision par ordinateur, notamment en enrichissant nos services d'analyse forensique d'images (détection de retouches, inpainting, détection de deepfakes, etc.).\n\nProfil recherché :\n\nVous êtes diplômé d'un Master ou d'une école d'ingénieur, avec une spécialisation en computer vision, traitement du signal et des images, intelligence artificielle, machine learning ou data science, et vous disposez de solides bases théoriques et pratiques dans ces domaines. Vous justifiez d'au moins un an d'expérience en computer vision.\nVous êtes intéressé(e) par la Computer Vision, l'IA et la R&D.\n\nVous maîtrisez le traitement du signal et le développement de modèles d'apprentissage automatique pour la classification, la détection et la segmentation d'images.\n\nVous avez une expérience en programmation Python sous Linux.\nVous êtes familier(e) avec les frameworks PyTorch ou équivalent.\nVous êtes un passionné de computer vision avec une forte curiosité technique et un goût pour l 'expérimentation.\nVous êtes passionné par la recherche appliquée et aimez relever des défis.\nQualités relationnelles, goût du travail en équipe et sens du service.\nVous avez d'excellentes compétences en français et en anglais.\nLa connaissance d'Apache Spark, Docker, Kubernetes, MongoDB et/ou S3 serait un plus",
       "dateCreation": "2026-07-21T15:37:21.118Z",
-      "dateActualisation": "2026-07-30T12:19:59.403Z",
+      "dateActualisation": "2026-08-12T07:47:27.047Z",
       "lieuTravail": {
         "libelle": "75 - PARIS 01",
         "codePostal": "75001",
@@ -6489,136 +6986,6 @@
       "contexteTravail": {
         "horaires": [
           "39H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "211LPKQ",
-      "intitule": "Ingénieur-e Logiciel (Backend, Python) (H/F)",
-      "description": "Ce que tu feras :\n- Innover dans la complexité : L'énergie est une industrie aux règles métier denses. Ton job est de traduire cette complexité en services backend robustes et performants, tout en gardant une longueur d'avance sur l'innovation.\n- Rayonner à l'international : Bien que tu développes exclusivement pour le marché français, tu n'es pas seul(e) dans ton coin. Tu travailleras en étroite collaboration avec l'équipe Core (basée à Londres) qui définit l'architecture globale et les bonnes pratiques de la codebase.\n- Partage et collaboration : Tu participeras à des échanges permanents avec les développeurs des autres pays du groupe. Le partage de code est la norme : tu réutilises ce qui fonctionne ailleurs et tu contribues en retour au socle commun.\n- Être Owner de tes sujets de A à Z : Du kickstart à l'architecture, de l'implémentation au monitoring sur Datadog, tu es moteur de changement et responsable de la qualité de ton code.\n\nCe dont tu auras besoin : \n- Tu bénéficies d'une expérience de 3 ans max sur des missions similaires.\n- De solides bases en Python : C'est notre langage de cœur. Ta maîtrise des concepts backend, ta logique et ton aisance avec le Python typé feront la différence.\n- Framework Django : Expérience approfondie du framework Django pour la conception d'architectures backend robustes et évolutives.\n- Une sensibilité pour l'architecture : Tu es curieux d'approfondir une Layered Architecture pour découpler la logique métier du framework et garantir la maintenabilité.\n- Gestion de logiques métier denses : Tu sais traduire des workflows exigeants en solutions techniques robustes (APIs REST/GraphQL/SOAP, tâches de fond avec Celery).\n- L'envie d'évoluer dans une codebase mondiale : Tu rejoindras un monorepo partagé par plus de 50 développeurs sur 6 pays. Cela demande de la cohérence et offre de réelles opportunités de partage de connaissances.\n- Une curiosité pour GraphQL : Notre API repose presque exclusivement sur cette technologie. Tu as envie de l'utiliser pour construire des interfaces élégantes et performantes.\n- De la rigueur et de la bienveillance : Pour nous, la revue de code est un moment d'échange bienveillant où l'exigence technique tire tout le monde vers le haut.\n- Anglais de travail : Capacité à échanger avec l'équipe Core et à documenter ton code pour tes pairs à l'international.\n- Présence de 3 jours obligatoire au bureau",
-      "dateCreation": "2026-07-21T12:17:37.822Z",
-      "dateActualisation": "2026-08-07T22:48:24.006Z",
-      "lieuTravail": {
-        "libelle": "75 - PARIS 02",
-        "codePostal": "75002",
-        "commune": "75102"
-      },
-      "romeCode": "M1827",
-      "romeLibelle": "Ingénieur / Ingénieure DevOps",
-      "appellationlibelle": "Ingénieur / Ingénieure développement logiciel",
-      "entreprise": {
-        "nom": "OCTOPUS ENERGY FRANCE",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "2 An(s)",
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Français",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "484485",
-          "libelle": "Configurer et optimiser des systèmes DevOps",
-          "exigence": "S"
-        },
-        {
-          "code": "300242",
-          "libelle": "Déterminer des mesures correctives",
-          "exigence": "S"
-        },
-        {
-          "code": "300199",
-          "libelle": "Développer un logiciel, un système d'informations, une application",
-          "exigence": "S"
-        },
-        {
-          "code": "300188",
-          "libelle": "Rédiger un cahier des charges, des spécifications techniques",
-          "exigence": "S"
-        },
-        {
-          "libelle": "#TDFE2026",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "libelle": "Annuel de 45000.0 Euros à 55000.0 Euros sur 12 mois",
-        "complement1": "Plan d'actionnariat salarié",
-        "complement2": "Indemnité transports",
-        "listeComplements": [
-          {
-            "code": "13",
-            "libelle": "Plan d'actionnariat salarié"
-          },
-          {
-            "code": "14",
-            "libelle": "Indemnité transports"
-          },
-          {
-            "code": "4",
-            "libelle": "Ordinateur portable"
-          },
-          {
-            "code": "6",
-            "libelle": "Titres restaurant / Prime de panier"
-          },
-          {
-            "code": "7",
-            "libelle": "Complémentaire santé"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "38H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "coordonnees1": "https://jobs.lever.co/octoenergy/841c8257-01be-4b53-a3c6-952ce3b1655f",
-        "urlPostulation": "https://jobs.lever.co/octoenergy/841c8257-01be-4b53-a3c6-952ce3b1655f"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "1",
-      "deplacementLibelle": "Jamais",
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "74.90B",
-      "secteurActivite": "74",
-      "secteurActiviteLibelle": "Activités spécialisées, scientifiques et techniques diverses",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Faire preuve de créativité, d'inventivité",
-          "description": "Capacité à créer, imaginer quelque chose de nouveau (nouveau produit, nouvelle solution, …)."
-        },
-        {
-          "libelle": "Faire preuve d'autonomie",
-          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
-        },
-        {
-          "libelle": "Etre force de proposition",
-          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-        }
-      ],
-      "trancheEffectifEtab": "200 à 249 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211LPKQ"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "38H/semaine\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -6739,7 +7106,7 @@
       "intitule": "Ingénieur déploiement logiciels santé (H/F)",
       "description": "Mission\nAccompagner les établissements de santé dans le déploiement et l'intégration de nos solutions d'imagerie médicale, en garantissant qualité de service, satisfaction client et bonne coordination technique tout au long des projets.\n\n\nResponsabilités\nInstaller, configurer et mettre en service nos solutions chez les établissements de santé.\nCollaborer avec les équipes internes (consultants applicatifs, équipes services, ventes) et avec les clients pour assurer un déploiement fluide et coordonné.\nFournir des conseils techniques sur les évolutions logicielles, matérielles et fonctionnelles.\nGérer et documenter les incidents techniques, escalades et remontées vers les équipes concernées.\nContribuer aux mises à jour, migrations et montées de version des solutions.\nParticiper aux actions de formation continue, à la documentation et à l'amélioration des processus techniques.\nProduire les rapports d'avancement et assurer une communication claire avec le client et le management.\nRespecter les standards de qualité, sécurité et performance établis.\n\n\nQualifications\nBac +2 en informatique, ingénierie biomédicale, systèmes d'information ou équivalent.\nMinimum 2 ans d'expérience dans le déploiement, le support, l'intégration ou les projets IT.\n\n\nEnvironnement technique\nWindows Server\nRéseau (TCP/IP, VPN)\nVirtualisation (VMware / Hyper-V)\nBases de données SQL / Oracle\nStockage et infrastructure IT\n\n\nSerait un plus\nDICOM / PACS / RIS\nSAN / NAS\nPL/SQL\n\nUne formation aux solutions Medsquare et aux spécificités du secteur de l'imagerie médicale sera assurée.\n\nCompétences et qualités recherchées\nSolides compétences d'analyse, de diagnostic et de résolution de problèmes.\nCapacité à gérer plusieurs projets et priorités dans un environnement technique varié.\nBon relationnel, esprit d'équipe et sens du service client.\nAisance dans la rédaction de documentation technique et le suivi des projets.\nRigueur, autonomie et sens de l'organisation.\nBonne communication orale et écrite en français et en anglais.\nCuriosité technique et capacité d'adaptation dans un environnement en évolution constante.\n\n\nType d'emploi : Temps plein, CDI \nDate de prise de poste : dès que possible\nAvantages : tickets restaurant, prise en charge à 50 % des frais de transport, PC portable et téléphone professionnel.\nEnvironnement de travail hybride combinant présence au bureau, télétravail et déplacements clients.\nRémunération : 39-48 K€ selon profil et expérience, avec prime sur objectifs.",
       "dateCreation": "2026-07-20T10:17:07.545Z",
-      "dateActualisation": "2026-08-05T22:47:47.492Z",
+      "dateActualisation": "2026-08-11T22:51:49.285Z",
       "lieuTravail": {
         "libelle": "75 - Paris 13e Arrondissement",
         "latitude": 48.832653,
@@ -6870,7 +7237,7 @@
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211JYLS"
       },
-      "offresManqueCandidats": true,
+      "offresManqueCandidats": false,
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nTravail en journée"
@@ -7037,7 +7404,7 @@
       "intitule": "Platform Engineer (x/f/m) - Tech Foundations (H/F)",
       "description": "Alan est une entreprise technologique spécialisée dans l'assurance santé, opérant en France, en Belgique et en Espagne. Alan développe des outils numériques innovants pour offrir une expérience de santé simple, transparente et humaine à ses membres.\n\nDans le cadre du développement de son équipe Tech Foundations, Alan recherche un(e) Ingénieur(e) Plateforme / Infrastructure pour rejoindre l'équipe Infra. Cette équipe a pour mission d'opérer et de faire évoluer les fondations techniques sur lesquelles repose l'ensemble des services Alan (infrastructure multi-cloud, plateformes de données, observabilité et pratiques opérationnelles), afin que les équipes produit puissent livrer rapidement et en toute sécurité, sans que les membres ne ressentent les contraintes de la plateforme sous-jacente.\n\nMissions principales :\n- Concevoir, déployer et maintenir l'infrastructure cloud d'Alan (AWS, GCP) via des outils d'Infrastructure-as-Code (Terraform, Terramate), et contribuer aux décisions d'architecture soutenant l'expansion internationale de l'entreprise.\n- Opérer et faire évoluer les plateformes applicatives et de données sur lesquelles s'appuient les équipes produit : bases de données PostgreSQL/Aurora, pipeline d'événements, traitements asynchrones et outils de migration de bases de données.\n- Garantir la disponibilité et les niveaux de service (SLO) de la plateforme Alan. Faire évoluer la stack d'observabilité (Datadog), les processus de gestion des incidents (Incident.io) et la rotation d'astreinte partagée.\n- Assurer la gouvernance transverse : gestion des coûts d'infrastructure (FinOps), posture IAM, sauvegardes et reprise après sinistre, stratégie de sortie, avec une automatisation et un reporting qui passent à l'échelle.\n- Intégrer l'IA comme outil de premier plan pour l'investigation d'incidents, l'exécution de runbooks et la réduction des tâches répétitives (toil), afin que les ingénieurs concentrent leur temps sur des travaux à fort impact.\n\nProfil recherché :\n- Expérience de 3 ans minimum en Platform Engineering, DevOps, Site Reliability Engineering ou dans un rôle équivalent.\n- Solide expérience sur les plateformes cloud, notamment AWS ou GCP.\n- Capacité à écrire du code pour l'automatisation et le développement d'outils (API, outils en ligne de commande, portails développeurs), avec une appétence pour Python et/ou TypeScript.\n- Expérience avec des outils et pratiques d'observabilité, de monitoring, d'alerting et de gestion des incidents.\n- Capacité à concevoir et mettre en œuvre des systèmes d'infrastructure robustes, en mettant l'accent sur la fiabilité et l'observabilité.\n- Expérience dans la construction et la maintenance d'outils internes ou externes à destination d'autres ingénieurs (API, interface web, ligne de commande, configuration as code, etc.).\n\nQualités personnelles :\n- Approche orientée produit : les ingénieurs et les membres sont des clients, et l'infrastructure doit sembler sans effort.\n- Profil opérationnel : le code est au cœur du travail quotidien ; le candidat met lui-même en production ce qu'il développe, assure les déploiements, la gestion des alertes et les astreintes.\n- État d'esprit \"enabler\" : mesure son impact à la capacité des équipes produit à livrer des fonctionnalités sans avoir à solliciter l'équipe infrastructure.\n- Maîtrise de l'anglais (langue de travail principale au sein d'Alan ; le français n'est pas requis).\n- Le poste est ouvert à partir du niveau C1 de la grille de carrière ingénieur d'Alan.",
       "dateCreation": "2026-07-16T15:20:15.439Z",
-      "dateActualisation": "2026-07-28T14:55:14.994Z",
+      "dateActualisation": "2026-08-11T17:59:13.165Z",
       "lieuTravail": {
         "libelle": "75 - PARIS",
         "latitude": 48.871795,
@@ -7372,225 +7739,6 @@
           " Mobilisable en urgence",
           " Travail de nuit",
           " Travail en astreinte"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "211CSGS",
-      "intitule": "Consultant AMOA ECM/GED (H/F)",
-      "description": "Pilotage Fonctionnel : Définition et suivi du périmètre fonctionnel, de l'étude à la mise en production\n\nAnalyse & Conception : Ateliers de recueil, processus As-Is/To-Be, SFG/SFD\n\nGarant de Qualité :  Stratégie de recette fonctionnelle et UAT\n\nAccompagnement Client :  Formation, documentation et conduite du changement\n\n\nExpérience:  Minimum 3 ans en AMOA ou Chefferie de Projet Fonctionnel, idéalement en ESN. Gestion de projets complexes et variés.\n\nMéthodologies:  Maîtrise des cycles projet: V, Agile et Hybride. Capacité à adapter l'approche au contexte client.\n\nSavoir être : Excellent relationnel, autonomie, synthèse, rigueur et capacité d'adaptation face aux défis métier.\n\nConnaissance ECM/GED : Maîtrise approfondie des problématiques de gestion électronique de documents, dématérialisation et archivage.\n\nExpérience Projets : Projets concrets de gestion du cycle de vie des contenus, archivage légal et numérisation.\n\nBonus OpenText : Première expérience ou bonne connaissance de solutions OpenText (Content Suite, Documentum).\n\nCroissance Expertise :  Parcours de carrière clair avec certifications et montée en expertise.",
-      "dateCreation": "2026-07-13T10:23:40.906Z",
-      "dateActualisation": "2026-08-10T09:09:27.477Z",
-      "lieuTravail": {
-        "libelle": "75 - PARIS 08",
-        "latitude": 48.877495,
-        "longitude": 2.317589,
-        "codePostal": "75008",
-        "commune": "75108"
-      },
-      "romeCode": "M1880",
-      "romeLibelle": "Spécialiste e-santé",
-      "appellationlibelle": "Consultant / Consultante e-santé",
-      "entreprise": {
-        "nom": "AEROW",
-        "url": "http://www.aerow.fr",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "3 An(s)",
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "S"
-        }
-      ],
-      "competences": [
-        {
-          "code": "482430",
-          "libelle": "Collaborer avec les professionnels de santé pour optimiser les soins",
-          "exigence": "S"
-        },
-        {
-          "code": "482816",
-          "libelle": "Communiquer avec les professionnels de santé pour collecter des informations",
-          "exigence": "S"
-        },
-        {
-          "code": "482950",
-          "libelle": "Proposer des solutions adaptées aux problématiques de santé",
-          "exigence": "S"
-        },
-        {
-          "code": "122645",
-          "libelle": "Concevoir un projet de santé",
-          "exigence": "S"
-        },
-        {
-          "libelle": "#TDFE2026",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Selon expérience"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "AEROW - Mme Wendy LUIDIALAM",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSGS",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSGS"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "62.02A",
-      "secteurActivite": "62",
-      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Avoir l'esprit d'équipe",
-          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-        },
-        {
-          "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
-          "description": "Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée."
-        },
-        {
-          "libelle": "Etre force de proposition",
-          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-        }
-      ],
-      "trancheEffectifEtab": "100 à 199 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211CSGS"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "211CSCW",
-      "intitule": "Concepteur éditique CM (H/F)",
-      "description": "Dans le cadre de notre développement, nous recherchons un(e) Consultant(e) Senior CCM (Customer Communications Management) pour accompagner nos clients dans la conception, la mise en œuvre et l'optimisation de leurs solutions de gestion des communications clients.\n\nVous interviendrez sur des projets à forte valeur ajoutée, en lien direct avec les équipes métiers et IT, afin de moderniser et industrialiser les chaînes de communications omnicanales (courrier, email, SMS, notifications push, etc.).\n\n \nVos missions :\n- Recueillir et analyser les besoins métiers\n- Concevoir des solutions CCM adaptées aux enjeux clients\n- Participer au cadrage, à l'architecture et à l'intégration des solutions\n- Configurer et paramétrer les outils CCM (Quadient, OpenText, kw, Compart, etc.)\n- Assurer les phases de tests, recette et mise en production\n- Accompagner les équipes clientes dans la conduite du changement\n- Encadrer et faire monter en compétence des consultants plus juniors\n\nProfil recherché :\n- Formation supérieure (Bac+5) en informatique, ingénierie ou équivalent\n- Minimum 5 ans d'expérience sur des projets CCM\n- Maîtrise d'au moins une solution CCM du marché\n- Bonne compréhension des architectures SI et des environnements multi-canaux\n- Expérience en gestion de projet et relation client\n- Excellentes capacités d'analyse et de communication\n- Autonomie, leadership et esprit d'équipe\n\nPourquoi nous rejoindre ?\n- Projets variés auprès de grands comptes\n- Environnement technique stimulant\n- Culture collaborative et esprit entrepreneurial\n- Opportunités d'évolution \n- Formation continue et accompagnement personnalisé\n- Poste à pourvoir dès que possible.\n\nTous nous postes sont ouverts aux personnes possédant le statut RQTH.",
-      "dateCreation": "2026-07-13T10:18:37.652Z",
-      "dateActualisation": "2026-08-10T09:09:41.249Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris 8e Arrondissement",
-        "latitude": 48.877495,
-        "longitude": 2.317589,
-        "codePostal": "75008",
-        "commune": "75108"
-      },
-      "romeCode": "M1836",
-      "romeLibelle": "Ingénieur concepteur / Ingénieure conceptrice informatique",
-      "appellationlibelle": "Chercheur / Concepteur informatique",
-      "entreprise": {
-        "nom": "AEROW",
-        "url": "http://www.aerow.fr",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "formations": [
-        {
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "exigence": "S"
-        }
-      ],
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "S"
-        }
-      ],
-      "competences": [
-        {
-          "code": "109531",
-          "libelle": "Algorithmique",
-          "exigence": "S"
-        },
-        {
-          "code": "119245",
-          "libelle": "Collaborer avec une équipe projet",
-          "exigence": "S"
-        },
-        {
-          "code": "300188",
-          "libelle": "Rédiger un cahier des charges, des spécifications techniques",
-          "exigence": "S"
-        },
-        {
-          "code": "300067",
-          "libelle": "Analyser, exploiter, structurer des données",
-          "exigence": "S"
-        },
-        {
-          "code": "300450",
-          "libelle": "Respecter la confidentialité des informations",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Selon expérience"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "AEROW - Mme Wendy LUIDIALAM",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSCW",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSCW"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels Zone régionale",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "62.02A",
-      "secteurActivite": "62",
-      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Avoir l'esprit d'équipe",
-          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-        },
-        {
-          "libelle": "Faire preuve d'autonomie",
-          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
-        },
-        {
-          "libelle": "Etre force de proposition",
-          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-        }
-      ],
-      "trancheEffectifEtab": "100 à 199 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211CSCW"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -10076,123 +10224,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "212CXDC",
-      "intitule": "Product Owner Web (H/F)",
-      "description": "Paris 17\n\nA propos de DentalMonitoring\n\nDentalMonitoring est un leader en orthodontie, proposant la première solution de télésuivi propulsée par l'IA certifiée en tant que dispositif médical\nNotre mission est d'établir un nouveau standard de soins en combinant technologie avancée et engagements forts en matière de qualité, d'efficacité, et d'expérience patient et praticien\nNotre plateforme aide les cabinets à renforcer le contrôle clinique, optimiser les flux de travail et offrir des soins plus personnalisés\nNotre IA propriétaire analyse les scans et fournit des informations actionnables, permettant une intervention clinique proactive et opportune, appuyée par plus de 13 000 résultats de données cliniques\nUn écosystème clé en main incluant formation, onboarding et outils marketing, au service de l'excellence clinique en orthodontie\n\nLe Role \n\nAnimation de l'équipe de développement et delivery (80%):\n\nIdentifier et concevoir les solutions fonctionnelles et techniques qui répondent aux exigences business\nDéfinir le scope des versions (MVP et itérations)\nRédiger et prioriser les user stories\nAccompagner et soutenir les développeurs au quotidien \nContribuer aux discussions sur les décisions techniques impactantes\nParticiper aux cérémonies agiles\nParticiper aux points de synchronisation avec les autres équipes (business, QA, marketing, support, R&D, RAQA)\nRemonter les difficultés, points bloquants et besoins d'arbitrages\n\nGestion Produit (20%):\n\nPrioriser, maintenir et partager la roadmap en collaboration avec le Business\nÊtre partie prenante dans la stratégie Produit, en portant une attention particulière à l'expérience utilisateur (offres proposées, stratégie de lancement.)\nContribuer aux décisions Produit, intervenir ponctuellement sur la Discovery\n\nCe que l'équipe peut vous apporter\n\nUne approche moderne de la conception produit avec plus d'autonomie sur la discovery\nUn environnement technique riche avec des applications web et mobile innovantes\nLa possibilité de travailler sur des projets à fort impact dans le secteur de la santé\nUne équipe expérimentée pour vous accompagner dans votre montée en compétences\n\nCe job est fait pour vous si \n\nVous avez une formation Bac+5 minimum en informatique, ingénierie ou équivalent\nVous êtes adaptable, animé-e par l'envie d'apprendre et faites preuve de curiosité\nVous recherchez un environnement scale-up où vous pouvez faire preuve de polyvalence et prendre des initiatives\nLes flux d'ingénierie des projets de développement applicatifs vous sont familiers\nVous possédez de solides compétences en analyse et en résolution de problèmes\nVous avez de l'expérience en discovery produit et recherche utilisateur\nLe fait de collaborer avec l'équipe de développement vous intéresse tout autant que la finalité du produit\nVous faites avancer les choses et êtes motivé-e par l'impact de vos actions\nVous faites preuve de rigueur et êtes capable de suivre un processus réglementaire\nVous avez un niveau minimum C1 en Anglais et en Français\n\nEncore mieux si\n\nVous avez une expérience dans le secteur de la santé ou MedTech\nVous maîtrisez les outils d'analytics produit\n\nDentalMonitoring est un employeur offrant l'égalité des chances et propose un lieu de travail interculturel et inclusif. La diversité de nos équipes est l'une de nos forces. Nous travaillons chaque jour avec plus de 35 nationalités dans différents pays à travers le monde. Nous accueillons et encourageons les candidatures de personnes en situation de handicap. Pour ces personnes, nous nous engageons à fournir les aménagements appropriés.",
-      "dateCreation": "2026-08-05T15:14:22.964Z",
-      "dateActualisation": "2026-08-10T17:14:35.034Z",
-      "lieuTravail": {
-        "libelle": "75 - PARIS",
-        "latitude": 48.884682,
-        "longitude": 2.322169,
-        "codePostal": "75017",
-        "commune": "75117"
-      },
-      "romeCode": "M1864",
-      "romeLibelle": "Product Owner",
-      "appellationlibelle": "Product Owner",
-      "entreprise": {
-        "nom": "DENTAL MONITORING",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "2 An(s)",
-      "competences": [
-        {
-          "code": "109818",
-          "libelle": "Elaborer des solutions techniques et fonctionnelles",
-          "exigence": "S"
-        },
-        {
-          "code": "120325",
-          "libelle": "Présenter les évolutions du système d'information au commanditaire",
-          "exigence": "S"
-        },
-        {
-          "code": "120326",
-          "libelle": "Recenser les besoins du commanditaire",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Selon profil",
-        "complement1": "Plan d'actionnariat salarié",
-        "complement2": "CSE",
-        "listeComplements": [
-          {
-            "code": "13",
-            "libelle": "Plan d'actionnariat salarié"
-          },
-          {
-            "code": "9",
-            "libelle": "CSE"
-          },
-          {
-            "code": "7",
-            "libelle": "Complémentaire santé"
-          },
-          {
-            "code": "6",
-            "libelle": "Titres restaurant / Prime de panier"
-          },
-          {
-            "code": "4",
-            "libelle": "Ordinateur portable"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "Agence France Travail Paris 16 et 17ème Cardinet",
-        "coordonnees1": "8 RUE Bernard Buffet",
-        "coordonnees2": "75017 Paris",
-        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212CXDC"
-      },
-      "agence": {
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212CXDC"
-      },
-      "nombrePostes": 1,
-      "deplacementCode": "1",
-      "deplacementLibelle": "Jamais Zone départementale",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "33.20C",
-      "secteurActivite": "33",
-      "secteurActiviteLibelle": "Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Avoir l'esprit d'équipe",
-          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-        },
-        {
-          "libelle": "Faire preuve de rigueur et de précision",
-          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-        },
-        {
-          "libelle": "Organiser son travail selon les priorités et les objectifs",
-          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-        }
-      ],
-      "trancheEffectifEtab": "100 à 199 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212CXDC"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "212CVLW",
       "intitule": "Intégrateur Web / Développeuse développeur front (H/F)",
       "description": "Descriptif du poste\nVous êtes sous la responsabilité du Lead développeur Web.\n\nVos missions sont les suivantes :\n\n* Réaliser ou adapter les éléments graphiques\n* Intégrer aux sites web les traductions réalisées par le service International\n* Vérifier la compatibilité du site avec les différents navigateurs existants desktop et mobile\n* Veiller à la cohérence des éléments et au bon fonctionnement du site internet\n* Optimiser le référencement et les contenus du site suivant les recommandations du référent SEO\n* Suivre les recommandations techniques de webperf formulées par l'équipe archi\n* Structurer et faire évoluer le code HTML / CSS / SCSS / JS\n* Formuler les recommandations UX sur la navigation des sites web\n\nProfil recherché\nConnaissances / savoir-faire / savoir-être :\n\n* Maîtriser HTML 5 / CSS 3 / SCSS / Webpack Gulp\n* Vous êtes créatif et artistique\n* Vous êtes sensible à l'expérience utilisateur\n* Vous maîtrisez les problématiques d'intégration en Responsive et Mobile first sur les principaux navigateurs\n* Vous êtes dynamique, passionné et force de proposition\n* JavaScript / CSS / HTML\n* CMS\n* Forte culture WEB\n* Vous êtes autonome, organisé, avez le sens de l'écoute et aimez travailler en équipe",
@@ -12335,7 +12366,7 @@
       "intitule": "Développeur Java Angular (H/F)",
       "description": "Votre rôle :\n\nVous contribuez au développement d'une plateforme SaaS d'outils OSINT, au sein d'une culture DevOps, sur un sujet d'intérêt général au cœur de l'actualité : mieux comprendre, détecter et anticiper les campagnes de manipulation de l'information. Votre travail a un impact direct sur les capacités de nos clients en France et à l'international à faire face aux menaces informationnelles d'aujourd'hui et de demain.\n\nAu quotidien, vous serez amené(e) à :\n\n- Participer à des sprints de deux semaines au sein d'une équipe agile.\n- Concevoir, développer et faire évoluer les fonctionnalités de notre plateforme en collaboration avec les chefs de projets techniques et l'équipe fullstack.\n- Contribuer à l'amélioration continue de l'architecture, de la qualité du code et des bonnes pratiques de développement.\n- Garantir la qualité de vos développements grâce aux tests et aux revues de code.\n- Participer aux réflexions techniques et proposer des améliorations pour faire évoluer nos solutions.\n\nProfil recherché :\n\n- Première expérience professionnelle en développement fullstack,\n- Expérience en programmation back-end : Java sur Linux (ORM & Spring Framework serait un plus),\n- Expérience en développement front-end : Angular (TypeScript, JavaScript, HTML, CSS)\n- La connaissance de Docker, MongoDB et ElasticSearch serait un plus,\n- Excellente communication en français et aisance dans la lecture de documentation technique en anglais.\n- Qualités relationnelles, goût du travail en équipe et sens du service,\n\nProcessus de recrutement :\n- Échange téléphonique de découverte pour valider l'adéquation entre votre profil, vos attentes et le poste\n- Entretien RH (30 min maximum en visioconférence)\n- Test technique à réaliser chez vous (environ 4h, avec 1 semaine de délai pour nous transmettre vos résultats)\n- Entretien avec le Manager (1h maximum en présentiel)\n- Entretien final (prévoir 1 à 2h)",
       "dateCreation": "2026-07-21T15:29:00.900Z",
-      "dateActualisation": "2026-08-03T16:59:03.164Z",
+      "dateActualisation": "2026-08-12T07:46:50.245Z",
       "lieuTravail": {
         "libelle": "75 - PARIS 01",
         "codePostal": "75001",
@@ -13037,202 +13068,6 @@
       "origineOffre": {
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211DKKD"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "211CSKP",
-      "intitule": "Consultant technique GED F/H (H/F)",
-      "description": "Descriptif du poste\n\nLe consultant GED intervient sur quatre domaines clés - du développement Java à l'intégration de plateformes documentaires, avec montée en compétence progressive sur les solutions ECM.\n\n\nDéveloppement Java\n\nJava Spring Boot, REST APIs, scripts d'intégration, métadonnées et workflows documentaires\n\n\nIntégration ECM / Middleware\n\nConnecteurs Java vers SAP, Microsoft 365, Salesforce et SI d'entreprise via APIs REST/SOAP\n\n\nArchivage & Cycle de vie\n\nPolitiques de rétention, archivage légal, dématérialisation de documents et gestion des durées de conservation\n\n\nSécurité & APIs\n\nSSO/LDAP/Active Directory, sécurisation des APIs documentaires, gestion des habilitations et audits d'accès\n\n\nProjets forfait\n\nEstimations, respect Q/C/D, rédaction SFD/STD, tests, exploitation, transfert de compétences client\n\n\nProfil recherché\n\nTechnologies Java\n- Stack Java robuste - montée en compétence GED/ECM structurée dès la prise de poste.\n-Java / Spring Boot : REST APIs, microservices, JUnit, Maven - socle technique principal\n- SGBD : Oracle, PostgreSQL, SQL Server pour la persistance et les référentiels documentaires\n- JSON/XML : échanges de données et formats documentaires\n- GED/ECM : OpenText Content Server, APIs documentaires - en acquisition\n\n\nInfrastructure & Intégration\n\nEnvironnements serveurs et DevOps pour déployer des solutions documentaires en entreprise.\n- Serveurs d'application : Tomcat, IIS\n- OS : Windows, Windows Server, Linux\n- DevOps : Git, Jenkins, Azure DevOps - intégration continue\n- Protocoles : REST/SOAP pour APIs GED, SAML/SSO/LDAP pour sécurité documentaire\n\n \nPoste à pourvoir dès que possible.\nTous nous postes sont ouverts aux personnes possédant le statut RQTH.",
-      "dateCreation": "2026-07-13T10:31:15.292Z",
-      "dateActualisation": "2026-08-10T09:08:34.237Z",
-      "lieuTravail": {
-        "libelle": "75 - PARIS 08",
-        "latitude": 48.877495,
-        "longitude": 2.317589,
-        "codePostal": "75008",
-        "commune": "75108"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Consultant / Consultante informatique",
-      "entreprise": {
-        "nom": "AEROW",
-        "url": "http://www.aerow.fr",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "3 An(s)",
-      "competences": [
-        {
-          "code": "300195",
-          "libelle": "Concevoir un logiciel, un système d'informations, une application",
-          "exigence": "S"
-        },
-        {
-          "code": "300495",
-          "libelle": "Evaluer le résultat de ses actions",
-          "exigence": "S"
-        },
-        {
-          "code": "300488",
-          "libelle": "Concevoir et gérer un projet",
-          "exigence": "S"
-        },
-        {
-          "libelle": "#TDFE2026",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Selon expérience"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "AEROW - Mme Wendy LUIDIALAM",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSKP",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSKP"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "62.02A",
-      "secteurActivite": "62",
-      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Avoir l'esprit d'équipe",
-          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-        },
-        {
-          "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
-          "description": "Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée."
-        },
-        {
-          "libelle": "Etre force de proposition",
-          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-        }
-      ],
-      "trancheEffectifEtab": "100 à 199 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211CSKP"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "211CSGG",
-      "intitule": "Consultant/ Consultante SAP PDAP/VIM (H/F)",
-      "description": "OBJECTIFS PRINCIPAUX DE LA MISSION :\n\n- Consultant(e) technico-fonctionnel(le) pour renforcer l'équipe de dématérialisation de documents, et de factures en particulier. \n\n- Le/la consultant(e) intervient afin d'accompagner nos clients dans la mise en œuvre de leurs projets de transformation digitale basée sur la modernisation de leur processus de traitement de factures (Order to cash, Supplier Invoices, Procure To Pay, Facture Electronique).\n\n- Le/la consultant(e) Expert Dématérialisation intervient en autonomie ou en équipe sur l'ensemble du cycle (en V ou agile) de vie les projets VIM et/ou PDAP pour nos clients. Pour cela, il/elle assure les phases de cadrage, d'ateliers, de conception, d'intégration des solutions dans le contexte client et assure le transfert de compétences auprès des équipes, dans le cadre de ces projets. \n\n\n\nDESCRIPTIF DES TÂCHES :\n\n- Réalisation de projets \n- Être force de proposition et en veille sur les technologies utilisées et en particulier VIM et/ou PDAP \n- Participer au développement technologique des offres \n- Participer aux phases d'avant-vente comme contributeur technique et expert \n- Rédiger les spécifications générales et détaillées en étroite collaboration avec les équipes d'architecture du client \n- Participer à l'intégration/réalisation des projets \n- Participer en avant-première aux expérimentations des nouvelles versions VIM et/ou PDAP en Beta Test\n\n\nPROFIL RECHERCHÉ, COMPÉTENCES TECHNIQUES (CERTIF) :\n\n- Technico-fonctionnel(e) sur SAP (ABAP, workflow, FI/MM, IDOC, Fiori, .) \n- Opentext VIM et/ou Kofax PDAP (Process Director, ex Readsoft) \n- Intégration de documents dématérialisés \n- Archivage \n- Modélisation de processus et workflow de traitement documentaire \n- Connaissance de la Réforme 2024 \n- Nous apprécions lorsque vous possédez également une ou plusieurs certifications autour de SAP ou VIM ou Kofax.  Si vous ne les possédez pas, pas d'inquiétude, vous aurez l'occasion de les passer tout au long de votre aventure parmi nous.\n\nPoste à pourvoir dès que possible. \nTous nos postes sont ouverts aux personnes possédant le statut RQTH.",
-      "dateCreation": "2026-07-13T10:22:29.778Z",
-      "dateActualisation": "2026-08-10T09:09:33.763Z",
-      "lieuTravail": {
-        "libelle": "75 - PARIS 08",
-        "latitude": 48.877495,
-        "longitude": 2.317589,
-        "codePostal": "75008",
-        "commune": "75108"
-      },
-      "romeCode": "M1802",
-      "romeLibelle": "Expert / Experte systèmes et réseaux informatiques",
-      "appellationlibelle": "Consultant / Consultante informatique",
-      "entreprise": {
-        "nom": "AEROW",
-        "url": "http://www.aerow.fr",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "4 An(s)",
-      "formations": [
-        {
-          "niveauLibelle": "Bac+2 ou équivalents",
-          "exigence": "S"
-        },
-        {
-          "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
-          "exigence": "S"
-        }
-      ],
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "300195",
-          "libelle": "Concevoir un logiciel, un système d'informations, une application",
-          "exigence": "S"
-        },
-        {
-          "code": "300495",
-          "libelle": "Evaluer le résultat de ses actions",
-          "exigence": "S"
-        },
-        {
-          "code": "300488",
-          "libelle": "Concevoir et gérer un projet",
-          "exigence": "S"
-        },
-        {
-          "libelle": "#TDFE2026",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Savoir trouver l'information dans le monde SAP",
-          "exigence": "E"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Selon expérience"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "AEROW - Mme Wendy LUIDIALAM",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSGG",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211CSGG"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "62.02A",
-      "secteurActivite": "62",
-      "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
-      "trancheEffectifEtab": "100 à 199 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211CSGG"
       },
       "offresManqueCandidats": false,
       "contexteTravail": {
@@ -14645,11 +14480,11 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "5886707",
-      "intitule": "Data Engineer Confirmé(e) - expert PySpark  - Services Financiers - Ile de France  (H/F)",
-      "description": "\n            Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe, avec 50000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services et solutions numériques. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, en combinant une connaissance approfondie des secteurs d'activité et des technologies à une approche collaborative.\n\nSopra Steria place l'humain au cœur de son action et s'engage auprès de ses clients à tirer le meilleur parti du numérique pour construire un avenir positif. En 2024, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.The world is how we shape it*\n*Le monde est tel que nous le façonnonsDescription du posteVotre futur environnement de travail :Vous êtes passionné(e) par la valorisation de la donnée, rejoignez notre Data Factory localisée à Paris ! Vous y rencontrerez des experts de la mise en œuvre de Plateforme de Données, des Data Architectes ou autres experts solution autour des problématiques de valorisation de la donnée.Vous êtes accompagné(e) au développement de vos connaissances aux travers de différents parcours Data que ce soit pour l'ingestion, la construction de datahub, la transformation et valorisation de la donnée, la modélisation et mise à disposition.Rejoindre notre Data Factory Sopra Steria, c'est rejoindre une communauté de Data Ingénieurs fiers de partager leur savoir et ouverts aux nouvelles expériences et expérimentations de la donnée.Votre rôle et vos missions :Dans le cadre de la mise en place du centre Data pour un grand acteur financier de l'état et selon votre appétence, vous participerez à plusieurs étapes de la chaîne :- La compréhension des besoins métiers et la traduction solution de data ingénierie- La mise en œuvre de solution d'ingestion des données quelles soit en batch et/ou en streaming dans un contexte Cloud ;- La structuration du DataLake, la mise en place de processus de gouvernance et sécurisation des données ;- Le traitement de la donnée jusqu'à l'exposition au métier ;- La mise en place de la chaine CI/CD et de sa supervision ;- La veille technologie avec nos partenaires éditeurs et la mise en place de Prototype Design, Proof of Concept ou encore MVP dans un objectif d'idéation pour nos clients.Vous maitrisez un langage de programmation appliqué à l'analyse de données (SQL, Scala, R, Python, Java), le traitement distribué de données (Spark, Pyspark , Hadoop) et un Framework de streaming de données (Kafka, RabbitMQ, etc.).QualificationsVous êtes attiré(e) par le monde du numérique, le Cloud et des technologies innovantes.Vous avez un bon esprit d'analyse, êtes curieux(se) et passionné(e) et vous avez le sens du travail en équipe dans une organisation Agile type Srcum ou SAFEVous accordez une importance particulière au développement de vos compétences sur plusieurs technologies. Vous souhaitez une évolution réelle de carrière à travers l'expérience projet. Vous êtes soucieux de l'apport de valeur pour vos clients. Et vous voulez transmettre votre savoir auprès de collaborateurs moins expérimentés. Alors, n'attendez-plus, ce poste est fait pour vous !Diplômé(e) d'une Ecole d'ingénieur ou formation équivalente, vous avez déjà participé à un projet Data (Big Data, BI) et vous avez une expérience de minimum 3 ans. La maitrise de Dataiku serait un plus.Informations supplémentairesUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions. Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie avec Sopra Steria Academy.La possibilité de s'engager auprès d'une association grâce à notre plateforme d'engagement citoyen.L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements \n            ",
-      "dateCreation": "2026-08-11T05:30:57.000Z",
-      "dateActualisation": "2026-08-11T05:30:57.000Z",
+      "id": "5916840",
+      "intitule": "Architecte DATA - Services Financiers - Ile de France (H/F)",
+      "description": "\n            Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe, avec 51000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services et solutions numériques. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, en combinant une connaissance approfondie des secteurs d'activité et des technologies à une approche collaborative.\n\nSopra Steria place l'humain au cœur de son action et s'engage auprès de ses clients à tirer le meilleur parti du numérique pour construire un avenir positif. En 2025, le Groupe a réalisé un chiffre d'affaires de 5,6 milliards d'euros.Description du posteAu sein du vertical Services financiers, vous participez à des grands projets de transformations des systèmes d'informations de nos clients bancaires.  Acteur incontournable de l'avant-vente jusqu'à la mise en production, vous intervenez sur un périmètre large, au sein d'un environnement technique innovant.  Sopra Steria investit dans votre parcours professionnel en vous proposant des formations spécialisées (e-learning, présentiel), des parcours de certification et un accès des communautés internes.  Au travers du collectif TechMe Up, Sopra Steria porte une attention toute particulière au bien-être et à l'épanouissement professionnel des population tech en proposant entre autres :  Des journées de conférences tech biannuelles internes  Des accès à des conférences externes  Des pc « boostés » pour les développements  Parcours de formation dédié pour nos experts techniques  Vos principales missions sont : Vous communiquez avec de nombreuses parties prenantes de l'entreprise pour évaluer les besoins et les objectifs de la plateforme Data  Vous évaluez l'architecture des données et les bases de données actuelles  Vous recommandez les meilleures pratiques ETL pour l'ingestion des données  Vous faites des recommandations pour la plateforme cible en prenant en compte les usages existants et à venir   Vous mettez en place des architectures data en environnement multicloud/ cloud Hybride  Vous veillez à l'exploitabilité continue du SI et l'ensemble des aspects de sécurité Reconnu(e) pour votre expertise, vous participez activement à la montée en compétence des équipes Enfin, vous assurez une veille technologique DATA et partagez cette connaissance au sein de la DSI et autres DirectionsEnvironnement technologique : Bases de données Relationnelles et NoSQL,  Cloud (Azure, ou AWS notamment) en particulier leur capacité Data et IA, FinOps,  Technologies Big Data (Hadoop, Spark, Kafka, etc.),  Outils de modélisation : Visio. Langages de programmation, Python et Java. DevOps & CI/CD : Maven, GitLab, Sonar, Checkmark, .  QualificationsVous possédez une forte expérience sur les technologies citées ci-dessus, ainsi qu'une réelle force de proposition en portant les sujets techniques ardus, et un comportement proactif pour embarquer l'équipe et le client dans le succès des projets. Le travail en équipe sera clé en interaction avec le client et aussi en interne avec une forte qualité pédagogique et d'intégration au sein des multiples équipes projets. Vous êtes un vrai couteau suisse, permettant de descendre dans la technique sur les sujets ardus (exemplarité vis-à-vis des équipes techniques), tout en gardant du recul, et sachant aussi remonter plus haut au niveau DAT / Roadmap / Stratégie. Vous êtes issu(e) d'un Master 2 ou équivalent (Ecole d'Ingénieurs ou Universitaire) et possédez au moins 5 ans d'expérience en tant qu'Architecte DATA, dans des environnements complexes et exigeants. Informations supplémentairesUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions. Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie avec Sopra Steria Academy.La possibilité de s'engager auprès d'une association grâce à notre plateforme d'engagement citoyen.L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagementsEmployeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures...",
+      "dateCreation": "2026-08-12T05:30:59.746Z",
+      "dateActualisation": "2026-08-12T05:30:59.746Z",
       "lieuTravail": {
         "libelle": "75 - Paris 1er Arrondissement",
         "codePostal": "75001",
@@ -14657,17 +14492,14 @@
       },
       "romeCode": "M1811",
       "romeLibelle": "Data engineer",
-      "appellationlibelle": "Data engineer",
-      "entreprise": {
-        "description": "\n                    Sopra Steria, acteur majeur de la Tech en Europe avec 56000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des te..."
-      },
+      "appellationlibelle": "Architecte big data",
+      "entreprise": {},
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
       "natureContrat": "Contrat travail",
       "experienceExige": "E",
       "experienceLibelle": "0 An(s)",
       "salaire": {},
-      "dureeTravailLibelle": "\nTravail en journée",
       "alternance": false,
       "contact": {},
       "nombrePostes": 1,
@@ -14675,57 +14507,12 @@
       "qualificationLibelle": "Technicien",
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5886707",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5916840",
         "partenaires": [
           {
             "nom": "TALENTS_HANDICAP",
-            "url": "https://www.talents-handicap.com/165-sopra-steria/330732-data-engineer-confirme-e-expert-pyspark-services-financiers-ile-de-france-7?src=FranceTravail",
+            "url": "https://www.talents-handicap.com/165-sopra-steria/338015-architecte-data-services-financiers-ile-de-france-10?src=FranceTravail",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-          }
-        ]
-      },
-      "contexteTravail": {
-        "horaires": [
-          "\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "5886522",
-      "intitule": "Ingénieur analyste SOC (H/F)",
-      "description": "Dans le cadre d'un renforcement de la sécurité des infrastructures IT, Cloud de nos clients Grands Comptes du secteur des\ntélécoms, vous jouez un rôle central dans leur stratégie de cybersécurité en tant qu'Analyste SOC !\n\nVotre tâche (.si vous l'acceptez !) :\n\nEn tant qu'Analyste SOC, vous êtes le garant de la sécurité défensive. Vos principales tâches sont de :\n\n\n Surveiller et traiter les événements et alertes de sécurité pour identifier les menaces potentielles ;\n Diagnostiquer les données et enquêter en profondeur sur les incidents pour comprendre leur origine et leur impact ;\n Perfectionner et optimiser les systèmes de corrélation de sécurité et mettre en place de nouveaux dispositifs de\n détection de menaces ;\n Prendre en charge le reporting des incidents et des activités opérationnelles, et fournir des indicateurs clés ;\n Collaborer avec les clients pour répondre aux incidents et les accompagner dans les actions de remédiation ;\n Mener une recherche proactive de menaces avancées pour anticiper les attaques futures ;\n Réaliser une veille technologique sur les menaces, vulnérabilités et nouvelles méthodes d'attaque.\n\n\nVotre Stack de Jeu :\n\n\n SIEM, Splunk, Microsoft Sentinel, IBM Qradar\n Des notions TCP/IP (routage, adressage, protocoles)",
-      "dateCreation": "2026-08-11T05:01:22.534Z",
-      "dateActualisation": "2026-08-11T05:01:22.534Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris 1er Arrondissement",
-        "codePostal": "75001",
-        "commune": "75101"
-      },
-      "romeCode": "M1896",
-      "romeLibelle": "Analyste cycle de vie dans les télécoms",
-      "appellationlibelle": "Ingénieur / Ingénieure analyste télécoms",
-      "entreprise": {
-        "nom": "Forums Talents Handicap"
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "1 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5886522",
-        "partenaires": [
-          {
-            "nom": "HANDICAP_JOB",
-            "url": "https://www.handicap-job.com/recherche/detail/oid/6648403/ingenieur-analyste-soc-hf.html",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/handicap_job80.png"
           }
         ]
       },
@@ -14734,20 +14521,111 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "5884781",
-      "intitule": "Administrateur Systèmes, Réseaux et Support Utilisateurs (H/F)",
-      "description": "Description de l'entreprise/de l'organisme\n\nL'Institut d'études avancées (IEA) de Paris est une institution de recherche internationale fortement ancrée dans les sciences humaines et sociales. Son activité première est l'accueil de chercheurs internationaux de très haut niveau.\n\nParallèlement à ses programmes d'accueil, l'Institut offre à ses partenaires institutionnels des plateformes et des projets d'échange et de réflexion sur des problématiques les concernant en développant des initiatives destinées à apporter des réponses à des enjeux sociétaux majeurs.\n\nVos missions\n\nMissions principales\n\nL'administrateur systèmes et réseaux est responsable du bon fonctionnement, de la maintenance et de la sécurité de l'ensemble de l'infrastructure informatique et télécoms de l'Institut.\n\nIl/elle assure également le support technique auprès des utilisateurs et veille à la disponibilité, la fiabilité et la performance des outils informatiques nécessaires aux activités de l'IEA.\n\nResponsabilités\n\n1. Gestion des postes de travail\n\n* Approvisionnement et déploiement du matériel informatique (ordinateurs, périphériques).\n* Installation et configuration des postes utilisateurs (systèmes, logiciels, VPN, intégration Active Directory).\n* Paramétrage personnalisé selon les besoins des utilisateurs.\n* Suivi du parc informatique et maintenance préventive.\n\n2. Gestion du réseau\n\n* Maintenance et configuration du réseau, infrastructure TP-LINK OMADA avec contrôleur OC300 et 7 switchs administrable à distance.\n* Gestion de la sécurité et optimisation du réseau interne.\n* Surveillance de la connectivité et résolution des incidents.\n* Gestion du réseau Wifi, installation et configuration des bornes.\n* Gestion des différents réseaux Wifi.\n\n3\\. Gestion des imprimantes\n\n* Approvisionnement, installation et configuration des imprimantes réseau.\n* Suivi de la consommation et gestion des stocks de consommables.\n* Maintenance et dépannage.\n\n4\\. Gestion de la téléphonie fixe\n\n* Administration du serveur de téléphonie 3CX\n* Configuration et maintenance des postes IP.\n* Gestion des licences et des extensions utilisateurs.\n\n5\\. Gestion des serveurs\n\n* Administration des serveurs de virtualisation ( Proxmox ).\n* Supervision des serveurs virtuels.\n* Suivi des performances, mises à jour, sauvegardes et sécurité.\n* Administration des serveurs Microsoft AD et Exchange\n* Administration du Firewall ( PFsense )\n\n6\\. Gestion des NAS\n\n* Configuration et surveillance des serveurs NAS\n* Gestion et surveillance des sauvegardes ( VEEAM)\n\n7\\. Gestion des licences logicielles, Suivi des droits d'usage et conformité logicielle : Microsoft, Adobe, Zoom, Eset Antivirus, etc.\n\n8\\. Gestion des périphériques et accessoires\n\n* Suivi des écrans, claviers, souris, casques, webcams, stations d'accueil et connectiques.\n* Approvisionnement, gestion des stocks et remplacement du matériel défectueux.\n\n9. Gestion des salles de visioconférence : support technique, installation du matériel, vérification et assistance\n\n10\\. Gestion de la vidéosurveillance\n\n11\\. Maintenance du matériel audio et vidéo de la salle de conférence.\n\nVos compétences\n\nCompétences requises\n\nMaîtrise des environnements Microsoft Azure, Active Directory / Exchange.\n\nSolides compétences en administration réseau.\n\nExpérience en virtualisation (Proxmox).\n\nConnaissances des systèmes 3CX, PFSense, Truenas, Sage appréciées.\n\nCapacité d'analyse, rigueur, sens du service et autonomie.\n\nBonnes compétences de communication et d'organisation.\n\nProfil recherché\n\nFormation Bac+2 à Bac+5 en informatique, systèmes et réseaux.\n\nExpérience confirmée en administration systèmes et réseaux (3 ans minimum souhaités).\n\nBon niveau d'anglais technique.\n\nCapacité à gérer simultanément plusieurs projets et priorités.\n\nConditions et rémunération\n\nCDI à temps partiel\n\nRémunération 20000 - 25000 brut par an, selon expérience du candidat\n\nDisponibilité : janvier 2026",
-      "dateCreation": "2026-08-11T04:01:40.596Z",
-      "dateActualisation": "2026-08-11T04:01:40.596Z",
+      "id": "5916836",
+      "intitule": "Data Engineer GCP - Services Financiers - Ile-de-France  (H/F)",
+      "description": "\n            Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe, avec 51000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services et solutions numériques. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, en combinant une connaissance approfondie des secteurs d'activité et des technologies à une approche collaborative.\n\nSopra Steria place l'humain au cœur de son action et s'engage auprès de ses clients à tirer le meilleur parti du numérique pour construire un avenir positif. En 2025, le Groupe a réalisé un chiffre d'affaires de 5,6 milliards d'euros.Description du posteAu sein de notre Vertical Services Financiers et pour le compte de nos clients bancaires, vous intervenez sur la conception, l'industrialisation et l'automatisation de chaînes de traitement de données sur des environnements comme Google Cloud Platform (GCP).Environnement de travail Rejoindre Sopra Steria, c'est intervenir sur des plateformes Data critiques au cœur des enjeux de transformation numérique des grands acteurs bancaires et de paiement.\nVous évoluez dans un environnement Cloud first, avec de vraies problématiques d'industrialisation, de scalabilité et de qualité de données, au sein d'équipes expertes qui valorisent les bonnes pratiques d'ingénierie (CI/CD, automatisation, sécurité).\nSopra Steria vous permet de développer une expertise GCP reconnue, tout en bénéficiant d'un cadre structuré favorisant la montée en compétences et la prise de responsabilité technique.La missionVous contribuez sur différentes activités, notamment :Développement des pipelines de traitement de données et des scripts de déploiementRédaction/maintien de la documentation des user stories garantissant le respect de l'architectureGestion des anomalies, contribution au RUN et lien avec l'exploitationParticipation au delivery continu et à l'automatisation des testsEnvironnement Technique :GKE (Google Kubernates Engine)Stockage : HDFS / GCSTraitements : Spark, Kafka, ScalaOrchestration : Airflow / ComposerData : SQL, BigQuery, BigTableDevOps/Delivery : Git, Docker, Terraform, Ansible, Jenkins / Cloud BuildQualificationsVous êtes diplômé d'un Bac+ 5 d'une école d'ingénieur ou d'un cursus universitaire et justifiez d'une expérience de 5 ans minimum dans le domaine de la Data EngineeringVous disposez d'une solide culture en matière d'industrialisation / qualité / automatisationVous maîtrisez les environnements Cloud et les chaînes CI/CDVous êtes à l'aise pour produire un code lisible, documenté, testable et à gérer le RUN (analyse d'incident, correctifs).Informations supplémentairesUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions. Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie avec Sopra Steria Academy.La possibilité de s'engager auprès d'une association grâce à notre plateforme d'engagement citoyen.L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements \n            ",
+      "dateCreation": "2026-08-12T05:30:59.745Z",
+      "dateActualisation": "2026-08-12T05:30:59.745Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris 1er Arrondissement",
+        "codePostal": "75001",
+        "commune": "75101"
+      },
+      "romeCode": "M1811",
+      "romeLibelle": "Data engineer",
+      "appellationlibelle": "Big data engineer",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "0 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "7",
+      "qualificationLibelle": "Technicien",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5916836",
+        "partenaires": [
+          {
+            "nom": "TALENTS_HANDICAP",
+            "url": "https://www.talents-handicap.com/165-sopra-steria/338014-data-engineer-gcp-services-financiers-ile-de-france-3?src=FranceTravail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "5915872",
+      "intitule": "Administrateur fonctionnel SAP F/H",
+      "description": "RESPONSABILITÉS : \n\nSous la responsabilité de la responsable du service Finances et contrôle de gestion, vous êtes le référent métier des utilisateurs du système d'information comptable et budgétaire de l'établissement public, quelle que soit leur direction de rattachement : Direction de l'Administration et des Finances, Agence comptable, Direction des Systèmes d'Information et directions opérationnelles. Vous assurez l'interface entre la maîtrise d'ouvrage (MOA), la maîtrise d'œuvre (MOE), les éditeurs/intégrateurs et les utilisateurs finaux.\nVous recueillez, analysez et traduisez les besoins métiers afin de les transformer en exigences fonctionnelles. Vous assurez le suivi du paramétrage fonctionnel dans le cadre de la maintenance, des montées de version et des évolutions du système d'information, et participez aux phases de recette, de tests et de validation.\nGarant de la complétude et de l'actualisation des référentiels du système, vous assurez la gestion de ces référentiels métiers (création, mise à jour et suppression), selon les situations, directement ou en interface avec l'intégrateur. Vous veillez à la qualité et à l'intégrité des données et participez aux campagnes de migration, de reprise ou de nettoyage des données.\nVous assurez la gestion des comptes utilisateurs (création, mise à jour et suppression), des profils, des droits et des habilitations. Vous êtes également responsable de la maîtrise du périmètre fonctionnel et budgétaire des licences, en lien direct avec l'intégrateur lorsque cela est nécessaire.\nVous assurez le support fonctionnel de deuxième niveau auprès des utilisateurs. Vous analysez, qualifiez et traitez les demandes et les incidents dans le respect des délais de traitement, puis escaladez les situations les plus complexes vers l'éditeur et/ou la Direction des Systèmes d'Information.\nIntégré au service Finances et contrôle de gestion, vous apportez un appui particulier aux responsables administratifs et financiers, qui assurent la relation entre la Direction de l'Administration et des Finances et les directions opérationnelles, ainsi qu'au contrôleur de gestion en charge de l'analytique. À ce titre, vous contribuez à la structuration, au suivi et à la mise à jour du budget d'investissement et des projets associés. Plus largement, vous participez à la conception, à la maintenance et à la mise à disposition des restitutions, tableaux de bord et reportings nécessaires au pilotage de l'activité.\n\nPROFIL RECHERCHÉ : \n\nConnaissances  :\n-          Maîtrise de SAP S4/HANA, en particulier des modules (FI, MM, SD, PS et CO)\n-          Maîtrise de SAP Analytics Cloud (SAC)\n-          Idéalement, maîtrise de la comptabilité publique et de la réglementation afférente\n-          Maîtrise des outils bureautique, en particulier Excel\nCompétences opérationnelles :\n-          Maîtrise de l'élaboration de référentiels, de règles et de procédures\n-          Capacité d'analyse et de synthèse\n-          Capacités rédactionnelles\n-          Compréhension de l'environnement et du besoin et capacité à proposer des solutions cohérentes\nCompétences comportementales :\n-          Sens de l'organisation et des priorités\n-          Capacités d'observation, d'écoute et de proposition\n-          Goût du travail en équipe et sens de la pédagogie\n-          Capacités d'initiative, de réactivité \n-          Autonomie \n-          Rigueur\n-          Qualités relationnelles\n\nVos avantages :\n- Mutuelle prise en charge employeur à 75% - Prévoyance complémentaire\n- Intéressement/Epargne entreprise\n- Carte titres restaurant - Prise en charge du Transport en commun à 100% - forfait mobilité\n- 48 jours de Congés (au prorata du temps de présence)\n- Dispositions familiales avantageuses (mesures liées à la parentalité)\n- Compte Epargne Temps\n- Tutorat d'intégration\n- Prime de résultat\n- Parcours de Formation\n\nRejoignez celles et ceux qui veillent sur notre bien le plus précieux : Plongez dans le secteur de l'eau !",
+      "dateCreation": "2026-08-12T04:31:31.257Z",
+      "dateActualisation": "2026-08-12T04:31:31.257Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris 13e Arrondissement",
+        "codePostal": "75013",
+        "commune": "75113"
+      },
+      "romeCode": "M1801",
+      "romeLibelle": "Administrateur / Administratrice de systèmes d'information (SI)",
+      "appellationlibelle": "Administrateur / Administratrice système informatique",
+      "entreprise": {
+        "nom": "Eau de Paris"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {
+        "libelle": "Annuel de 45000.0 Euros à 55000.0 Euros"
+      },
+      "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5915872",
+        "partenaires": [
+          {
+            "nom": "BEETWEEN",
+            "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hjyjc53khu8/administrateur-fonctionnel-sap-f-h",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+          }
+        ]
+      },
+      "contexteTravail": {
+        "horaires": [
+          "37H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "5915585",
+      "intitule": "Directeur de projets - CDI (H/F)",
+      "description": "Vous cherchez un poste stimulant dans une entreprise à impact en plein développement ? Nous sommes l'entreprise qu'il vous faut ! Vestack est une Proptech qui conçoit et construit des bâtiments hors-site bas-carbone, à ossature bois. Dans le cadre de son développement rapide, nous sommes à la recherche d'un(e) Directeur de projets en CDI.\n\nVos missions\n\n* Vous pilotez la relation avec le client ainsi que le suivi financier et juridique des projets,\n* En vous appuyant sur les chargés d'études, vous supervisez la conception des projets, de la phase Esquisse à la phase PRO/DCE, en animant les parties prenantes internes (notamment bureau d'études, approvisionnements et industrialisation), et externes (maîtrise d'ouvrage privées et publiques, architectes, bureaux d'études externes, sous-traitants).\n* Vous suivez et réceptionnez la production des modules en usine conformément à la conception élaborée en amont.\n* En vous appuyant sur les ingénieurs travaux, vous supervisez la logistique des modules (transport et levage) ainsi que la bonne réalisation des travaux de préparation (fondations) et de finitions par les sous-traitants en phase chantier.\n* Par ailleurs, vous contribuez à l'amélioration continue de nos processus, ainsi qu'au développement et à l'animation des relations de Vestack avec ses partenaires (entreprises générales de construction notamment).\n\nLes projets à l'étude vont du logement aux bureaux, en passant par de la résidence étudiante, où vous représentez Vestack en tant que contractant général, entreprise générale ou co-traitant, en fonction des projets.\\_\nVotre activité et vos missions nécessitent des déplacements ponctuels sur vos chantiers, qui peuvent avoir un rayonnement national.\n\nVos compétences\n\n* 5 années d'expérience minimum acquises en entreprise de construction, bureau d'études ou en promotion immobilière (composante conception / travaux).\n* Avoir été confronté à des environnements dynamiques, demandant prise d'initiative et autonomie, notamment sur des chantiers de construction tous corps d'état.\n* La curiosité, la rigueur et l'autonomie sont nécessaires pour réussir les nombreux challenges et vous permettre de trouver des solutions structurantes.\n* Excellentes capacités organisationnelles dans la conduite des processus et le suivi de projet.\n* Excellent relationnel et adaptabilité à différents types de parties prenantes (équipes terrains, architectes, équipe de direction).\n\nAvantages\n\n* Rémunération selon profil + variable\n* Télétravail : 1 journée par semaine ou 1 semaine par mois\n* Tickets restaurant 10 €\n* Mutelle 50 % prise en charge par l'employeurL\n* Locaux confortables\n* Une équipe soudée, solidaire et disponible\n* Un point mensuel qui offre un moment de convivialité à l'ensemble des équipes\n\nRejoignez Vestack en tant que Directeur de projets CDI et transformez l'avenir du bâtiment avec nos solutions innovantes, rapides et écologiques. Participez à des projets qui changent la donne.",
+      "dateCreation": "2026-08-12T04:02:37.554Z",
+      "dateActualisation": "2026-08-12T04:02:37.554Z",
       "lieuTravail": {
         "libelle": "75 - Paris",
         "commune": "75056"
       },
-      "romeCode": "M1801",
-      "romeLibelle": "Administrateur / Administratrice de systèmes d'information (SI)",
-      "appellationlibelle": "Administrateur / Administratrice systèmes et réseaux",
+      "romeCode": "M1854",
+      "romeLibelle": "Chef / Cheffe de projet réseau fixe et mobile",
+      "appellationlibelle": "Directeur / Directrice de projets",
       "entreprise": {
-        "nom": "Institut d'Etudes Avancées de Paris"
+        "nom": "Vestack"
       },
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
@@ -14760,11 +14638,51 @@
       "nombrePostes": 1,
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5884781",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5915585",
         "partenaires": [
           {
             "nom": "SKELLO",
-            "url": "https://join.com/companies/paris-ieafr/16511907-administrateur-systemes-reseaux-et-support-utilisateurs?pid=d0c6f59b69df21dc4528",
+            "url": "https://join.com/companies/vestack/16551283-directeur-de-projets-cdi?pid=d0c6f59b69df21dc4528",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "5915545",
+      "intitule": "Business Analyst Retail (H/F)",
+      "description": "Vos missions\n\nNous accompagnons actuellement un acteur majeur de la distribution spécialisée dans le recrutement de son futur Business Analyst (H/F).\n\nIl ne s'agit pas d'un simple poste d'analyse.\n\nVotre mission sera de construire, structurer et automatiser les outils de pilotage afin d'accompagner la Direction dans ses décisions stratégiques.\n\nVos principaux enjeux :\n\n Structurer le pilotage de la performance\n\n Concevoir et automatiser les reportings\n\n Développer des tableaux de bord pertinents\n\n Fiabiliser les données financières et opérationnelles\n\n Produire des analyses à forte valeur ajoutée\n\n Accompagner la transformation de l'entreprise\n\nVos compétences\n\nLe profil recherché :\n\n Expérience significative en Business Analysis, Contrôle de Gestion ou Business Intelligence.\n\n Excellente maîtrise d'Excel et idéalement de Power BI.\n\n Capacité à gérer des volumes de données importants.\n\n Sens de l'analyse, rigueur et fiabilité.\n\nUne expérience dans les secteurs Retail, Commerce, Distribution ou Grande Distribution sera particulièrement appréciée.\n\nNous recherchons une personne capable de bâtir une fonction, de structurer des méthodes et de devenir un véritable partenaire de la Direction.\n\nSi vous aimez les environnements où tout reste à construire et où votre impact sera immédiatement visible, cette opportunité est faite pour vous.",
+      "dateCreation": "2026-08-12T04:02:28.324Z",
+      "dateActualisation": "2026-08-12T04:02:28.324Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris",
+        "commune": "75056"
+      },
+      "romeCode": "M1806",
+      "romeLibelle": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information",
+      "appellationlibelle": "Business analyst",
+      "entreprise": {
+        "nom": "Norvelis"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "Expérience exigée",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5915545",
+        "partenaires": [
+          {
+            "nom": "SKELLO",
+            "url": "https://join.com/companies/norvelisfr/16549599-business-analyst-retail?pid=d0c6f59b69df21dc4528",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
           }
         ]
@@ -14789,11 +14707,11 @@
       "agregation": [
         {
           "valeurPossible": "0",
-          "nbResultats": 43
+          "nbResultats": 50
         },
         {
           "valeurPossible": "4",
-          "nbResultats": 168
+          "nbResultats": 163
         },
         {
           "valeurPossible": "1",
@@ -14801,11 +14719,11 @@
         },
         {
           "valeurPossible": "2",
-          "nbResultats": 215
+          "nbResultats": 214
         },
         {
           "valeurPossible": "3",
-          "nbResultats": 167
+          "nbResultats": 166
         }
       ]
     },
@@ -14818,11 +14736,11 @@
         },
         {
           "valeurPossible": "9",
-          "nbResultats": 157
+          "nbResultats": 154
         },
         {
           "valeurPossible": "X",
-          "nbResultats": 394
+          "nbResultats": 397
         }
       ]
     },
@@ -14831,11 +14749,11 @@
       "agregation": [
         {
           "valeurPossible": "CC",
-          "nbResultats": 1
+          "nbResultats": 2
         },
         {
           "valeurPossible": "E1",
-          "nbResultats": 602
+          "nbResultats": 601
         }
       ]
     }

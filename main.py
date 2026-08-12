@@ -1,6 +1,7 @@
 import sys
 
 from llm_client import generate
+from offers import ensure_offers_cache
 
 
 def main() -> None:
@@ -9,6 +10,7 @@ def main() -> None:
         return
 
     user_msg = " ".join(sys.argv[1:])
+    ensure_offers_cache()
     response = generate(user_msg)
 
     print(response)
