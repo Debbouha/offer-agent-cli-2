@@ -20,6 +20,7 @@ TOOLS_REGISTRY = {
             },
         },
         "function": list_offers,
+        "input_model": None,
         "output_model": OffersSummaryOutput,
     },
     "search_offers": {

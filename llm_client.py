@@ -1,25 +1,65 @@
 from google import genai
+from google.genai import errors
+from pydantic import ValidationError
 
 from config import GEMINI_MODEL
 from registry import TOOLS_REGISTRY
 
 
-def generate(user_msg) -> None:
+MAX_ITERATION = 10
+
+
+def _create_interaction(client, **kwargs):
+    try:
+        return client.interactions.create(**kwargs)
+    except errors.APIError as err:
+        raise RuntimeError(
+            f"Gemini API error: {err}"
+        ) from err
+
+
+def _execute_tool_call(step) -> dict:
+    tool = TOOLS_REGISTRY[step.name]
+    input_model = tool["input_model"]
+
+    try:
+        if input_model is not None:
+            validated_input = input_model.model_validate(step.arguments)
+            result = tool["function"](validated_input)
+        else:
+            result = tool["function"]()
+
+        result_data = result.model_dump()
+
+    except (ValidationError, ValueError) as err:
+        result_data = {
+            "error": str(err)
+        }
+
+    return {
+        "type": "function_result",
+        "name": step.name,
+        "call_id": step.id,
+        "result": result_data,
+    }
+
+
+def generate(user_msg: str) -> str:
     client = genai.Client()
-    MAX_ITERATION = 10
 
     tools = [
         tool["declaration"]
         for tool in TOOLS_REGISTRY.values()
     ]
 
-    interaction = client.interactions.create(
+    interaction = _create_interaction(
+        client,
         model=GEMINI_MODEL,
         input=user_msg,
         tools=tools,
     )
 
-    for iteration in range(MAX_ITERATION):
+    for _ in range(MAX_ITERATION):
         function_calls = [
             step
             for step in interaction.steps
@@ -27,43 +67,19 @@ def generate(user_msg) -> None:
         ]
 
         if not function_calls:
-            print(interaction.output_text)
-            break
+            return interaction.output_text
 
-        print(interaction.steps)
+        function_results = [
+            _execute_tool_call(step)
+            for step in function_calls
+        ]
 
-        function_results = []
-
-        for step in function_calls:
-            tool = TOOLS_REGISTRY[step.name]
-
-            if "input_model" in tool:
-                input_model = tool["input_model"]
-                validated_input = input_model.model_validate(step.arguments)
-                result = tool["function"](validated_input)
-            else:
-                result = tool["function"](**step.arguments)
-
-            print(result)
-
-            function_results.append(
-                {
-                    "type": "function_result",
-                    "name": step.name,
-                    "call_id": step.id,
-                    "result": result.model_dump(),
-                }
-            )
-
-        interaction = client.interactions.create(
+        interaction = _create_interaction(
+            client,
             model=GEMINI_MODEL,
             previous_interaction_id=interaction.id,
             input=function_results,
             tools=tools,
         )
 
-    else:
-        print(f"max iterations reached{iteration}")
-
-    print(iteration)
-    
+    raise RuntimeError("Maximum agent iterations reached.")

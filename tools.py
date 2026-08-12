@@ -38,10 +38,18 @@ def read_offer(read_offer_input: ReadOfferInput) -> JobOffer:
     data = get_offers_data()
 
     offer = next(
-        offer
-        for offer in data["resultats"]
-        if offer["id"] == read_offer_input.id
+        (
+            offer
+            for offer in data["resultats"]
+            if offer["id"] == read_offer_input.id
+        ),
+        None,
     )
+
+    if offer is None:
+        raise ValueError(
+            f'Offer "{read_offer_input.id}" not found.'
+        )
 
     return JobOffer(
         id=offer["id"],
